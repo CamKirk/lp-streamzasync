@@ -1,7 +1,7 @@
 # creating a 15.3 lesson
 
 - [x] familiarize with async
-- [ ] familiarize with streamz
+- [x] familiarize with streamz
 - [ ] familiarize with alpaca api
 
 - building alpaca api example trader
