@@ -2,7 +2,7 @@
 
 - [x] familiarize with async
 - [x] familiarize with streamz
-- [ ] familiarize with alpaca api
+- [x] familiarize with alpaca api
 
 - building alpaca api example trader
 
