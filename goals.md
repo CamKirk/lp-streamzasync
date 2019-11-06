@@ -1,6 +1,6 @@
 # creating a 15.3 lesson
 
-- [ ] familiarize with async
+- [x] familiarize with async
 - [ ] familiarize with streamz
 - [ ] familiarize with alpaca api
 
