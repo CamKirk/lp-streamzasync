@@ -3,10 +3,28 @@ import asyncio
 import pandas as pd
 from datetime import datetime
 from alpaca_trade_api import StreamConn
+import alpaca_trade_api as tradeapi
 import logging
 from libs import utils, models, db
+from streamz import Stream
+from streamz.dataframe import DataFrame
 
-print(utils)
+# initialize streams pd
+
+db = db.initializedb()
+
+alpaca = tradeapi.REST()
+
+def generate_signals(df):
+    # utilize arima from models as well as streamz
+
+    return signals
+
+def execute_trade_strategy(signals, account):
+    # abstract to external, include alpaca.submitorder
+    # https://github.com/alpacahq/alpaca-trade-api-python/blob/master/examples/long-short.py#L66
+    return account
+
 conn = StreamConn()
 
 @conn.on(r"AM$")
@@ -23,6 +41,8 @@ async def on_minute(conn, channel, bar): # bar object is the OHLC
         percent = 0
         up = 0
     
+    generate_signals()
+
     print(f"""
     {channel:<6s} {utils.ms2date(bar.end)} {bar.symbol:<10s}
     {percent:>8.2f}% {bar.open:>8.2f} {bar.close:>8.2f}
@@ -49,7 +69,6 @@ if __name__ == "__main__":
 
     try:
         conn.run(["Q.*","T.*","AM.*","A.*"])
-    # else:
-    #     conn.run(["AM.*"])
+
     except Exception as e:
         print(e)
