@@ -24,6 +24,7 @@ def ms2date(ms, fmt="%Y-%m-%d"):
 
 async def on_minute(conn, channel, bar): # bar object is the OHLC
     print(bar)
+    
     symbol=bar.symbol
     close=bar.close
 
