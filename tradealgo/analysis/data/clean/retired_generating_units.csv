@@ -1,0 +1,198 @@
+Year,Month,Entity ID,Entity Name,Plant Producer Type,Plant Name,Plant State,Plant ID,Generator ID,"
+Net Summer Capacity (MW)",Technology,Energy Source Code,Prime Mover Code
+2016,1,9231,City of Independence - (MO),Electric Utility,Missouri City,MO,2171,1,19,Conventional Steam Coal,BIT,ST
+2016,1,9231,City of Independence - (MO),Electric Utility,Missouri City,MO,2171,2,19,Conventional Steam Coal,BIT,ST
+2016,2,3900,City of Coggon - (IA),Electric Utility,Coggon,IA,1132,IC1,0.6,Petroleum Liquids,DFO,IC
+2016,2,9996,City of Kansas City - (KS),Electric Utility,Quindaro,KS,1295,GT1,13,Natural Gas Fired Combustion Turbine,NG,GT
+2016,2,11142,City of Logansport - (IN),Electric Utility,Logansport,IN,1032,4,16.5,Conventional Steam Coal,BIT,ST
+2016,2,11142,City of Logansport - (IN),Electric Utility,Logansport,IN,1032,5,22,Conventional Steam Coal,BIT,ST
+2016,2,11142,City of Logansport - (IN),Electric Utility,Logansport,IN,1032,6,15,Natural Gas Fired Combustion Turbine,NG,GT
+2016,2,17872,City of St Francis - (KS),Electric Utility,St Francis,KS,1321,3,0.8,Petroleum Liquids,DFO,IC
+2016,2,4161,Constellation Power Source Gen,IPP,Perryman,MD,1556,GT2,51,Petroleum Liquids,DFO,GT
+2016,3,6455,"Duke Energy Florida, Inc",Electric Utility,G E Turner,FL,629,P1,10,Petroleum Liquids,DFO,GT
+2016,3,6455,"Duke Energy Florida, Inc",Electric Utility,G E Turner,FL,629,P2,10,Petroleum Liquids,DFO,GT
+2016,3,6455,"Duke Energy Florida, Inc",Electric Utility,G E Turner,FL,629,P4,59,Petroleum Liquids,DFO,GT
+2016,3,6455,"Duke Energy Florida, Inc",Electric Utility,Rio Pinar,FL,637,P1,12,Petroleum Liquids,DFO,GT
+2016,3,49770,"Energy Recovery Operations, Inc",Commercial,Harford Waste to Energy Facility,MD,54935,1,1.1,Municipal Solid Waste,MSW,ST
+2016,3,7801,Gulf Power Co,Electric Utility,Lansing Smith,FL,643,1,162,Conventional Steam Coal,BIT,ST
+2016,3,7801,Gulf Power Co,Electric Utility,Lansing Smith,FL,643,2,195,Conventional Steam Coal,BIT,ST
+2016,3,13168,NRG Huntley Operations Inc,IPP,C R Huntley Generating Station,NY,2549,67,190,Conventional Steam Coal,SUB,ST
+2016,3,13168,NRG Huntley Operations Inc,IPP,C R Huntley Generating Station,NY,2549,S68,190,Conventional Steam Coal,SUB,ST
+2016,3,14127,Omaha Public Power District,Electric Utility,North Omaha,NE,2291,2,87,Conventional Steam Coal,SUB,ST
+2016,3,56690,Town of Portsmouth,IPP,Portsmouth Wind Turbine,RI,57350,WTG-1,1.5,Onshore Wind Turbine,WND,WT
+2016,4,4045,City of Columbia - (MO),Electric Utility,Columbia (MO),MO,2123,5,16.5,Conventional Steam Coal,BIT,ST
+2016,4,4254,Consumers Energy Co,Electric Utility,B C Cobb,MI,1695,4,156,Conventional Steam Coal,SUB,ST
+2016,4,4254,Consumers Energy Co,Electric Utility,B C Cobb,MI,1695,5,156,Conventional Steam Coal,SUB,ST
+2016,4,4254,Consumers Energy Co,Electric Utility,J C Weadock,MI,1720,7,152,Conventional Steam Coal,SUB,ST
+2016,4,4254,Consumers Energy Co,Electric Utility,J C Weadock,MI,1720,8,151,Conventional Steam Coal,SUB,ST
+2016,4,4254,Consumers Energy Co,Electric Utility,J R Whiting,MI,1723,1,102,Conventional Steam Coal,SUB,ST
+2016,4,4254,Consumers Energy Co,Electric Utility,J R Whiting,MI,1723,2,95,Conventional Steam Coal,SUB,ST
+2016,4,4254,Consumers Energy Co,Electric Utility,J R Whiting,MI,1723,3,122,Conventional Steam Coal,SUB,ST
+2016,4,5109,DTE Electric Company,Electric Utility,Trenton Channel,MI,1745,7,110,Conventional Steam Coal,SUB,ST
+2016,4,15470,"Duke Energy Indiana, LLC",Electric Utility,Wabash River,IN,1010,2,85,Conventional Steam Coal,BIT,ST
+2016,4,15470,"Duke Energy Indiana, LLC",Electric Utility,Wabash River,IN,1010,3,85,Conventional Steam Coal,BIT,ST
+2016,4,15470,"Duke Energy Indiana, LLC",Electric Utility,Wabash River,IN,1010,4,85,Conventional Steam Coal,BIT,ST
+2016,4,15470,"Duke Energy Indiana, LLC",Electric Utility,Wabash River,IN,1010,5,95,Conventional Steam Coal,BIT,ST
+2016,4,5580,"East Kentucky Power Coop, Inc",Electric Utility,Dale,KY,1385,3,74,Conventional Steam Coal,BIT,ST
+2016,4,5580,"East Kentucky Power Coop, Inc",Electric Utility,Dale,KY,1385,4,75,Conventional Steam Coal,BIT,ST
+2016,4,9273,Indianapolis Power & Light Co,Electric Utility,Eagle Valley (IN),IN,991,3,40,Conventional Steam Coal,BIT,ST
+2016,4,9273,Indianapolis Power & Light Co,Electric Utility,Eagle Valley (IN),IN,991,4,56,Conventional Steam Coal,BIT,ST
+2016,4,9273,Indianapolis Power & Light Co,Electric Utility,Eagle Valley (IN),IN,991,5,62,Conventional Steam Coal,BIT,ST
+2016,4,9273,Indianapolis Power & Light Co,Electric Utility,Eagle Valley (IN),IN,991,6,99,Conventional Steam Coal,BIT,ST
+2016,4,9273,Indianapolis Power & Light Co,Electric Utility,Eagle Valley (IN),IN,991,IC1,3,Petroleum Liquids,DFO,IC
+2016,4,10000,Kansas City Power & Light Co,Electric Utility,Montrose,MO,2080,1,170,Conventional Steam Coal,SUB,ST
+2016,4,12341,MidAmerican Energy Co,Electric Utility,George Neal North,IA,1091,1,134.3,Conventional Steam Coal,SUB,ST
+2016,4,12341,MidAmerican Energy Co,Electric Utility,George Neal North,IA,1091,2,283.7,Conventional Steam Coal,SUB,ST
+2016,4,26840,Port Townsend Paper Co,Industrial,Port Townsend Paper,WA,50544,GEN4,3,Wood/Wood Waste Biomass,BLQ,ST
+2016,4,15474,Public Service Co of Oklahoma,Electric Utility,Northeastern,OK,2963,4,460,Conventional Steam Coal,SUB,ST
+2016,4,17698,Southwestern Electric Power Co,Electric Utility,Welsh,TX,6139,2,528,Conventional Steam Coal,SUB,ST
+2016,4,18642,Tennessee Valley Authority,Electric Utility,Colbert,AL,47,1,178,Conventional Steam Coal,BIT,ST
+2016,4,18642,Tennessee Valley Authority,Electric Utility,Colbert,AL,47,2,178,Conventional Steam Coal,BIT,ST
+2016,4,18642,Tennessee Valley Authority,Electric Utility,Colbert,AL,47,3,178,Conventional Steam Coal,BIT,ST
+2016,4,18642,Tennessee Valley Authority,Electric Utility,Colbert,AL,47,4,178,Conventional Steam Coal,BIT,ST
+2016,4,18642,Tennessee Valley Authority,Electric Utility,Colbert,AL,47,5,472,Conventional Steam Coal,BIT,ST
+2016,4,20847,Wisconsin Electric Power Co,Electric Utility,Milwaukee County,WI,7549,1,7,Conventional Steam Coal,SUB,ST
+2016,5,4161,Constellation Power Source Gen,IPP,Riverside (MD),MD,1559,4,74,Natural Gas Steam Turbine,NG,ST
+2016,5,5517,Dynegy Midwest Generation Inc,IPP,Wood River,IL,898,4,89.5,Conventional Steam Coal,SUB,ST
+2016,5,5517,Dynegy Midwest Generation Inc,IPP,Wood River,IL,898,5,375.5,Conventional Steam Coal,SUB,ST
+2016,5,12807,Michigan South Central Pwr Agy,Electric Utility,Endicott Station,MI,4259,1,55,Conventional Steam Coal,BIT,ST
+2016,5,14165,NRG Power Midwest LP,IPP,Avon Lake,OH,2836,7,70,Conventional Steam Coal,BIT,ST
+2016,5,56217,Portsmouth Operating Services LLC,IPP,Portsmouth Genco LLC,VA,10071,GEN1,57.5,Conventional Steam Coal,BIT,ST
+2016,5,56217,Portsmouth Operating Services LLC,IPP,Portsmouth Genco LLC,VA,10071,GEN2,57.5,Conventional Steam Coal,BIT,ST
+2016,5,55768,RC Cape May Holdings LLC,IPP,B L England,NJ,2378,IC1,2,Petroleum Liquids,DFO,IC
+2016,5,55768,RC Cape May Holdings LLC,IPP,B L England,NJ,2378,IC2,2,Petroleum Liquids,DFO,IC
+2016,5,55768,RC Cape May Holdings LLC,IPP,B L England,NJ,2378,IC3,2,Petroleum Liquids,DFO,IC
+2016,5,55768,RC Cape May Holdings LLC,IPP,B L England,NJ,2378,IC4,2,Petroleum Liquids,DFO,IC
+2016,5,7726,Sharp Grossmont Hospital,Commercial,Grossmont Hospital,CA,10115,GEN1,0.8,Natural Gas Fired Combustion Turbine,NG,GT
+2016,5,7726,Sharp Grossmont Hospital,Commercial,Grossmont Hospital,CA,10115,GEN2,0.8,Natural Gas Fired Combustion Turbine,NG,GT
+2016,5,40211,"Wabash Valley Power Assn, Inc",Electric Utility,Wabash Valley Power IGCC,IN,57842,1,85,Petroleum Coke,SGP,CA
+2016,6,221,"Alaska Village Elec Coop, Inc",Electric Utility,Hooper Bay,AK,6319,5,0.5,Petroleum Liquids,DFO,IC
+2016,6,1009,City of Austin - (MN),Electric Utility,Austin Northeast,MN,1961,1,28,Natural Gas Steam Turbine,NG,ST
+2016,6,8198,City of Harrisonburg - (VA),Electric Utility,Harrisonburg Power Plant,VA,56006,ST-1,2.7,Natural Gas Steam Turbine,NG,ST
+2016,6,8723,City of Holland,Electric Utility,James De Young,MI,1830,3,10.5,Conventional Steam Coal,BIT,ST
+2016,6,4329,"Copper Valley Elec Assn, Inc",Electric Utility,Valdez,AK,6306,1,0.5,Petroleum Liquids,DFO,IC
+2016,6,4329,"Copper Valley Elec Assn, Inc",Electric Utility,Valdez,AK,6306,2,0.5,Petroleum Liquids,DFO,IC
+2016,6,4329,"Copper Valley Elec Assn, Inc",Electric Utility,Valdez,AK,6306,3,0.5,Petroleum Liquids,DFO,IC
+2016,6,5109,DTE Electric Company,Electric Utility,River Rouge,MI,1740,2,251,Conventional Steam Coal,SUB,ST
+2016,6,5701,El Paso Electric Co,Electric Utility,Hueco Mountain Wind Ranch,TX,55578,EXIS,1.3,Onshore Wind Turbine,WND,WT
+2016,6,50128,Georgia-Pacific Consr Ops LLC-Palatka,Industrial,Georgia-Pacific Palatka Operations,FL,10611,GEN2,7,Natural Gas Steam Turbine,NG,ST
+2016,6,17578,South Orange Co Wastewtr Auth,Commercial,Aliso Water Management Agency,CA,10820,GEN3,0.4,Other Waste Biomass,OBG,IC
+2016,6,18125,Stillwater Utilities Authority,Electric Utility,Boomer Lake Station,OK,3000,2,13,Natural Gas Steam Turbine,NG,ST
+2016,7,18947,City of Tipton - (IA),Electric Utility,Tipton,IA,8106,4,0.3,Petroleum Liquids,DFO,IC
+2016,7,12686,Mississippi Power Co,Electric Utility,Sweatt,MS,2048,1,46,Natural Gas Steam Turbine,NG,ST
+2016,7,12686,Mississippi Power Co,Electric Utility,Sweatt,MS,2048,2,46,Natural Gas Steam Turbine,NG,ST
+2016,7,12869,Monterey Regional Waste Mgmt,Commercial,Marina Landfill Gas,CA,10748,U4J08,1.4,Landfill Gas,LFG,IC
+2016,7,20847,Wisconsin Electric Power Co,Electric Utility,Twin Falls (MI),MI,1784,1,1.3,Conventional Hydroelectric,WAT,HY
+2016,7,20847,Wisconsin Electric Power Co,Electric Utility,Twin Falls (MI),MI,1784,2,1.3,Conventional Hydroelectric,WAT,HY
+2016,7,20847,Wisconsin Electric Power Co,Electric Utility,Twin Falls (MI),MI,1784,3,1.3,Conventional Hydroelectric,WAT,HY
+2016,7,20847,Wisconsin Electric Power Co,Electric Utility,Twin Falls (MI),MI,1784,4,1.2,Conventional Hydroelectric,WAT,HY
+2016,7,20847,Wisconsin Electric Power Co,Electric Utility,Twin Falls (MI),MI,1784,5,1.2,Conventional Hydroelectric,WAT,HY
+2016,8,7140,Georgia Power Co,Electric Utility,Kraft,GA,733,PWA,17,Natural Gas Fired Combustion Turbine,NG,GT
+2016,8,7140,Georgia Power Co,Electric Utility,Mitchell (GA),GA,727,3,155,Conventional Steam Coal,BIT,ST
+2016,8,7140,Georgia Power Co,Electric Utility,Mitchell (GA),GA,727,4A,31,Petroleum Liquids,DFO,GT
+2016,8,7140,Georgia Power Co,Electric Utility,Mitchell (GA),GA,727,4B,31,Petroleum Liquids,DFO,GT
+2016,8,12869,Monterey Regional Waste Mgmt,Commercial,Marina Landfill Gas,CA,10748,U3J98,1,Landfill Gas,LFG,IC
+2016,8,14624,PUD No 2 of Grant County,Electric Utility,Wanapum,WA,3888,3,103.8,Conventional Hydroelectric,WAT,HY
+2016,8,57433,ReEnergy Chateaugay LLC,IPP,ReEnergy Chateaugay Power Station,NY,50277,GEN1,18,Wood/Wood Waste Biomass,WDS,ST
+2016,9,5347,Dow Chemical Co,Industrial,LaO Energy Systems,LA,52006,GEN7,95,Natural Gas Fired Combined Cycle,NG,CT
+2016,9,5347,Dow Chemical Co,Industrial,LaO Energy Systems,LA,52006,GEN7,95,Natural Gas Fired Combined Cycle,NG,CT
+2016,10,6035,Exelon Power,IPP,Exelon L Street,MA,1587,GT1,16,Petroleum Liquids,DFO,GT
+2016,10,14127,Omaha Public Power District,Electric Utility,Fort Calhoun,NE,2289,1,478.1,Nuclear,NUC,ST
+2016,10,20838,Win-Sam Inc,Commercial,University of Texas at San Antonio,TX,54606,GEN1,3.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,1,1692,Big Rivers Electric Corp,Electric Utility,HMP&L Station Two Henderson,KY,1382,1,153.0,Conventional Steam Coal,BIT,ST
+2019,1,1692,Big Rivers Electric Corp,Electric Utility,HMP&L Station Two Henderson,KY,1382,2,159.0,Conventional Steam Coal,BIT,ST
+2019,1,19145,"DTE Tuscola, LLC",Industrial,Tuscola Station,IL,55245,TG1,3.8,Natural Gas Steam Turbine,NG,ST
+2019,1,58945,EthosEnergy Power Plant Services,Electric CHP,Quantum Pasco Power LP,FL,54424,GT1,48.5,Natural Gas Fired Combined Cycle,NG,CT
+2019,1,58945,EthosEnergy Power Plant Services,Electric CHP,Quantum Pasco Power LP,FL,54424,GT2,48.5,Natural Gas Fired Combined Cycle,NG,CT
+2019,1,58945,EthosEnergy Power Plant Services,Electric CHP,Quantum Pasco Power LP,FL,54424,ST1,24.0,Natural Gas Fired Combined Cycle,NG,CA
+2019,2,6526,FirstEnergy Generation Corp,IPP,FirstEnergy Bruce Mansfield,PA,6094,1,830.0,Conventional Steam Coal,RC,ST
+2019,2,6526,FirstEnergy Generation Corp,IPP,FirstEnergy Bruce Mansfield,PA,6094,2,830.0,Conventional Steam Coal,RC,ST
+2019,2,10171,Kentucky Utilities Co,Electric Utility,E W Brown,KY,1355,1,106.0,Conventional Steam Coal,BIT,ST
+2019,2,10171,Kentucky Utilities Co,Electric Utility,E W Brown,KY,1355,2,166.0,Conventional Steam Coal,BIT,ST
+2019,2,15534,TalenEnergy Montour LLC,IPP,TalenEnergy Montour,PA,3149,11,11.0,Conventional Steam Coal,RC,ST
+2019,2,58105,University of Redlands,Commercial,Energy Center,CA,58168,EC01,1.5,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,11560,City of Manassas - (VA),Electric Utility,Dean Drive Area Electric Generators,VA,56491,PG1,1.6,Petroleum Liquids,DFO,IC
+2019,3,11560,City of Manassas - (VA),Electric Utility,Dean Drive Area Electric Generators,VA,56491,PG2,1.6,Petroleum Liquids,DFO,IC
+2019,3,4161,Constellation Power Source Gen,IPP,Riverside (MD),MD,1559,GT7,19.0,Petroleum Liquids,DFO,GT
+2019,3,6455,"Duke Energy Florida, LLC",Electric Utility,Higgins,FL,630,P1,20.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,3,58945,EthosEnergy Power Plant Services,Electric CHP,Quantum Pasco Power LP,FL,54424,EDG1,1.2,Petroleum Liquids,DFO,IC
+2019,3,58945,EthosEnergy Power Plant Services,Electric CHP,Quantum Pasco Power LP,FL,54424,EDG2,1.2,Petroleum Liquids,DFO,IC
+2019,3,50129,Georgia-Pacific Cons Op LLC Port Hudson,Industrial,Georgia-Pacific Port Hudson,LA,10612,GEN1,67.7,Wood/Wood Waste Biomass,BLQ,ST
+2019,3,7570,Great River Energy,Electric Utility,Elk River,MN,2039,1,8.9,Municipal Solid Waste,MSW,ST
+2019,3,7570,Great River Energy,Electric Utility,Elk River,MN,2039,2,9.0,Municipal Solid Waste,MSW,ST
+2019,3,7570,Great River Energy,Electric Utility,Elk River,MN,2039,3,16.9,Municipal Solid Waste,MSW,ST
+2019,3,59879,Greenleaf Energy LLC,Electric CHP,Greenleaf 1 Power Plant,CA,10350,GEN1,42.0,Natural Gas Fired Combined Cycle,NG,CT
+2019,3,59879,Greenleaf Energy LLC,Electric CHP,Greenleaf 1 Power Plant,CA,10350,GEN2,8.0,Natural Gas Fired Combined Cycle,NG,CA
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Bellmeade Power Station,VA,50966,1,95.0,Natural Gas Fired Combined Cycle,NG,CT
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Bellmeade Power Station,VA,50966,2,95.0,Natural Gas Fired Combined Cycle,NG,CT
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Bellmeade Power Station,VA,50966,3,77.0,Natural Gas Fired Combined Cycle,NG,CA
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Bremo Bluff,VA,3796,3,71.0,Natural Gas Steam Turbine,NG,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Bremo Bluff,VA,3796,4,156.0,Natural Gas Steam Turbine,NG,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Chesterfield,VA,3797,3,97.5,Conventional Steam Coal,BIT,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Chesterfield,VA,3797,4,162.5,Conventional Steam Coal,BIT,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Mecklenburg Power Station,VA,52007,GEN1,69.0,Conventional Steam Coal,BIT,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Mecklenburg Power Station,VA,52007,GEN2,69.0,Conventional Steam Coal,BIT,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Multitrade of Pittsylvania LP,VA,52118,GEN1,41.5,Wood/Wood Waste Biomass,WDS,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Multitrade of Pittsylvania LP,VA,52118,GEN2,41.5,Wood/Wood Waste Biomass,WDS,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Possum Point,VA,3804,3,96.0,Natural Gas Steam Turbine,NG,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Possum Point,VA,3804,4,220.0,Natural Gas Steam Turbine,NG,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Yorktown,VA,3809,1,159.0,Conventional Steam Coal,BIT,ST
+2019,3,19876,Virginia Electric & Power Co,Electric Utility,Yorktown,VA,3809,2,164.0,Conventional Steam Coal,BIT,ST
+2019,3,20847,Wisconsin Electric Power Co,Electric Utility,Presque Isle,MI,1769,5,55.0,Conventional Steam Coal,SUB,ST
+2019,3,20847,Wisconsin Electric Power Co,Electric Utility,Presque Isle,MI,1769,6,55.0,Conventional Steam Coal,SUB,ST
+2019,3,20847,Wisconsin Electric Power Co,Electric Utility,Presque Isle,MI,1769,7,83.0,Conventional Steam Coal,SUB,ST
+2019,3,20847,Wisconsin Electric Power Co,Electric Utility,Presque Isle,MI,1769,8,83.0,Conventional Steam Coal,SUB,ST
+2019,3,20847,Wisconsin Electric Power Co,Electric Utility,Presque Isle,MI,1769,9,83.0,Conventional Steam Coal,SUB,ST
+2019,4,195,Alabama Power Co,Electric Utility,Gorgas,AL,8,10,727.7,Conventional Steam Coal,BIT,ST
+2019,4,195,Alabama Power Co,Electric Utility,Gorgas,AL,8,8,163.0,Conventional Steam Coal,BIT,ST
+2019,4,195,Alabama Power Co,Electric Utility,Gorgas,AL,8,9,172.0,Conventional Steam Coal,BIT,ST
+2019,4,221,"Alaska Village Elec Coop, Inc",Electric Utility,Togiak,AK,6348,2a,0.5,Petroleum Liquids,DFO,IC
+2019,4,221,"Alaska Village Elec Coop, Inc",Electric Utility,Togiak,AK,6348,4,0.3,Petroleum Liquids,DFO,IC
+2019,4,221,"Alaska Village Elec Coop, Inc",Electric Utility,Togiak,AK,6348,4B,0.8,Petroleum Liquids,DFO,IC
+2019,4,221,"Alaska Village Elec Coop, Inc",Electric Utility,Togiak,AK,6348,5A,0.8,Petroleum Liquids,DFO,IC
+2019,4,7136,Georgia-Pacific Consr Prods LP-Naheola,Industrial,Georgia-Pacific Consr Prods LP-Naheola,AL,10699,GEN1,12.4,Wood/Wood Waste Biomass,BLQ,ST
+2019,4,55768,RC Cape May Holdings LLC,IPP,B L England,NJ,2378,2,146.0,Conventional Steam Coal,BIT,ST
+2019,4,55768,RC Cape May Holdings LLC,IPP,B L England,NJ,2378,3,146.0,Petroleum Liquids,RFO,ST
+2019,5,58620,AEP Generation Resources Inc,IPP,Conesville,OH,2840,5,375.0,Conventional Steam Coal,BIT,ST
+2019,5,58620,AEP Generation Resources Inc,IPP,Conesville,OH,2840,6,375.0,Conventional Steam Coal,BIT,ST
+2019,5,29926,Entergy Nuclear Generation Co,IPP,Pilgrim Nuclear Power Station,MA,1590,1,677.2,Nuclear,NUC,ST
+2019,5,13781,Northern States Power Co - Minnesota,Electric Utility,Bay Front,WI,3982,4,15.0,Wood/Wood Waste Biomass,WDS,ST
+2019,5,15248,Portland General Electric Co,Electric Utility,Faraday,OR,3045,1,3.9,Conventional Hydroelectric,WAT,HY
+2019,5,15248,Portland General Electric Co,Electric Utility,Faraday,OR,3045,2,3.9,Conventional Hydroelectric,WAT,HY
+2019,5,15248,Portland General Electric Co,Electric Utility,Faraday,OR,3045,3,3.4,Conventional Hydroelectric,WAT,HY
+2019,5,15248,Portland General Electric Co,Electric Utility,Faraday,OR,3045,4,5.6,Conventional Hydroelectric,WAT,HY
+2019,5,15248,Portland General Electric Co,Electric Utility,Faraday,OR,3045,5,5.1,Conventional Hydroelectric,WAT,HY
+2019,5,17633,Southern Indiana Gas & Elec Co,Electric Utility,Northeast (IN),IN,1013,1,10.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,5,17633,Southern Indiana Gas & Elec Co,Electric Utility,Northeast (IN),IN,1013,2,10.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,61138,City Point Energy Center,Electric CHP,James River Genco LLC,VA,10377,GEN1,46.3,Conventional Steam Coal,BIT,ST
+2019,6,61138,City Point Energy Center,Electric CHP,James River Genco LLC,VA,10377,GEN2,46.3,Conventional Steam Coal,BIT,ST
+2019,6,4161,Constellation Power Source Gen,IPP,Gould Street,MD,1553,3,97.0,Natural Gas Steam Turbine,NG,ST
+2019,6,4458,Covanta Warren Energy Resource Co LP,IPP,Covanta Warren Energy,NJ,10012,1,10.0,Municipal Solid Waste,MSW,ST
+2019,6,12685,Entergy Mississippi LLC,Electric Utility,Rex Brown,MS,2053,4,197.7,Natural Gas Steam Turbine,NG,ST
+2019,6,12685,Entergy Mississippi LLC,Electric Utility,Rex Brown,MS,2053,GT1,10.3,Petroleum Liquids,DFO,GT
+2019,6,7136,Georgia-Pacific Consr Prods LP-Naheola,Industrial,Georgia-Pacific Consr Prods LP-Naheola,AL,10699,GEN2,12.4,Wood/Wood Waste Biomass,BLQ,ST
+2019,6,61336,Katahdin KI 50 LLC,Industrial,East Millinocket Mill,ME,55830,M2S1,14.5,Wood/Wood Waste Biomass,WDS,ST
+2019,6,61336,Katahdin KI 50 LLC,Industrial,East Millinocket Mill,ME,55830,M2S2,14.5,Wood/Wood Waste Biomass,WDS,ST
+2019,6,61336,Katahdin KI 50 LLC,Industrial,East Millinocket Mill,ME,55830,M2S3,28.1,Wood/Wood Waste Biomass,WDS,ST
+2019,6,56355,LES Project Holdings LLC,IPP,I 95 Municipal Landfill Phase I,VA,52051,UNT1,0.8,Landfill Gas,LFG,IC
+2019,6,56355,LES Project Holdings LLC,IPP,I 95 Municipal Landfill Phase I,VA,52051,UNT2,0.8,Landfill Gas,LFG,IC
+2019,6,56355,LES Project Holdings LLC,IPP,I 95 Municipal Landfill Phase I,VA,52051,UNT3,0.8,Landfill Gas,LFG,IC
+2019,6,56355,LES Project Holdings LLC,IPP,I 95 Municipal Landfill Phase I,VA,52051,UNT4,0.8,Landfill Gas,LFG,IC
+2019,6,56355,LES Project Holdings LLC,IPP,Sumpter Energy Associates,MI,54536,0201,0.8,Landfill Gas,LFG,IC
+2019,6,60771,Marcus Hook 50 L.P,Electric CHP,Marcus Hook Refinery Cogen,PA,50074,GEN1,48.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,13781,Northern States Power Co - Minnesota,Electric Utility,Granite City,MN,1910,1,13.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,13781,Northern States Power Co - Minnesota,Electric Utility,Granite City,MN,1910,2,13.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,13781,Northern States Power Co - Minnesota,Electric Utility,Granite City,MN,1910,3,13.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,13781,Northern States Power Co - Minnesota,Electric Utility,Granite City,MN,1910,4,13.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,56772,"TX LFG Energy, LP",IPP,Coastal Plains,TX,55554,UNT1,1.7,Landfill Gas,LFG,IC
+2019,6,56772,"TX LFG Energy, LP",IPP,Coastal Plains,TX,55554,UNT3,1.7,Landfill Gas,LFG,IC
+2019,6,56772,"TX LFG Energy, LP",IPP,Coastal Plains,TX,55554,UNT4,1.7,Landfill Gas,LFG,IC
+2019,6,50097,Verso Luke LLC,Industrial,Luke Mill,MD,50282,GEN1,32.0,Conventional Steam Coal,BIT,ST
+2019,6,50097,Verso Luke LLC,Industrial,Luke Mill,MD,50282,GEN2,28.0,Conventional Steam Coal,BIT,ST
+2019,7,7140,Georgia Power Co,Electric Utility,Hammond,GA,708,1,110.0,Conventional Steam Coal,BIT,ST
+2019,7,7140,Georgia Power Co,Electric Utility,Hammond,GA,708,2,110.0,Conventional Steam Coal,BIT,ST
+2019,7,7140,Georgia Power Co,Electric Utility,Hammond,GA,708,3,110.0,Conventional Steam Coal,BIT,ST
+2019,7,7140,Georgia Power Co,Electric Utility,Hammond,GA,708,4,510.0,Conventional Steam Coal,BIT,ST
+2019,7,7140,Georgia Power Co,Electric Utility,Langdale,AL,711,5,0.1,Conventional Hydroelectric,WAT,HY
+2019,7,7140,Georgia Power Co,Electric Utility,Langdale,AL,711,6,0.1,Conventional Hydroelectric,WAT,HY
+2019,7,7140,Georgia Power Co,Electric Utility,McIntosh,GA,6124,1,142.5,Conventional Steam Coal,SUB,ST

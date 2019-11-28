@@ -1,0 +1,734 @@
+Year,Month,Entity ID,Entity Name,Plant Producer Type,Plant Name,Plant State,Plant ID,Generator ID,"
+Net Summer Capacity (MW)",Technology,Energy Source Code,Prime Mover Code
+2016,1,40577,"American Mun Power-Ohio, Inc",Electric Utility,Cannelton Hydroelectric Plant,KY,57399,CG1,29.3,Conventional Hydroelectric,WAT,HY
+2016,1,40577,"American Mun Power-Ohio, Inc",Electric Utility,Willow Island Hydroelectric Plant,WV,57401,WIG1,22,Conventional Hydroelectric,WAT,HY
+2016,1,59247,Bearford Solar II LLC,IPP,Bearford Solar II,NC,59488,BEARF,4.9,Solar Photovoltaic,SUN,PV
+2016,1,58562,"Blueberry One, LLC",IPP,Blueberry One,NC,58605,PV1,5,Solar Photovoltaic,SUN,PV
+2016,1,59858,Chei Solar LLC,IPP,Chei Solar,NC,59508,PV1,5,Solar Photovoltaic,SUN,PV
+2016,1,7977,City of Hamilton - (OH),Electric Utility,Meldahl Hydroelectric Project,KY,56872,2,35,Conventional Hydroelectric,WAT,HY
+2016,1,59693,Cline Solar Farm LLC,IPP,"Cline Solar Farm, LLC",NC,59929,NB007,4.9,Solar Photovoltaic,SUN,PV
+2016,1,59692,Coats Solar Farm LLC,IPP,"Coats Solar Farm, LLC",NC,59937,NB006,4.9,Solar Photovoltaic,SUN,PV
+2016,1,5109,DTE Electric Company,Electric Utility,Greenwood Solar Farm,MI,60019,1,1.9,Solar Photovoltaic,SUN,PV
+2016,1,57170,"EDF Renewable Asset Holdings, Inc.",IPP,Milo Wind Project LLC,NM,59838,GEN1,50,Onshore Wind Turbine,WND,WT
+2016,1,58873,Green Energy Team LLC,IPP,"Biomass to Energy Facility, Kauai",HI,59035,MKA1,8.3,Other Waste Biomass,AB,ST
+2016,1,59835,Green Farm Solar LLC,IPP,Green Farm,NC,59148,GREEN,5,Solar Photovoltaic,SUN,PV
+2016,1,59853,Happy Solar LLC,IPP,Happy Solar,NC,59512,PV1,4,Solar Photovoltaic,SUN,PV
+2016,1,9267,"Hoosier Energy R E C, Inc",Electric Utility,New Castle Solar RES,IN,59981,PV1,1.1,Solar Photovoltaic,SUN,PV
+2016,1,9324,Indiana Michigan Power Co,Electric Utility,Deer Creek PV,IN,59855,DCPV1,2.5,Solar Photovoltaic,SUN,PV
+2016,1,59285,"Innovative Solar 6, LLC",IPP,Innovative Solar 6,NC,59542,IS6,3.6,Solar Photovoltaic,SUN,PV
+2016,1,59447,"Innovative Solar 64, LLC",IPP,Innovative Solar 64,NC,59677,IS064,4.9,Solar Photovoltaic,SUN,PV
+2016,1,59851,Jacob Solar LLC,IPP,Jacob Solar,NC,59503,PV1,5,Solar Photovoltaic,SUN,PV
+2016,1,58891,Jericho Power LLC,IPP,Jericho Power,NH,59070,WT 1,12.1,Onshore Wind Turbine,WND,WT
+2016,1,59850,Kenneth Solar LLC,IPP,Kenneth Solar,NC,59507,PV1,3,Solar Photovoltaic,SUN,PV
+2016,1,58679,"Kirkwall Holdings, LLC",IPP,Kirkwall Holdings,NC,58791,PV1,5,Solar Photovoltaic,SUN,PV
+2016,1,59245,Lanier Solar,IPP,Lanier Solar,NC,59486,LANIE,4.9,Solar Photovoltaic,SUN,PV
+2016,1,58451,"McCoy Solar, LLC",IPP,McCoy Solar Energy Project,CA,58462,BLK7,41.9,Solar Photovoltaic,SUN,PV
+2016,1,59691,Meadowbrook Solar Farm LLC,IPP,Meadowbrook Solar Farm,NC,59936,NB008,4.9,Solar Photovoltaic,SUN,PV
+2016,1,12341,MidAmerican Energy Co,Electric Utility,Adams Wind,IA,59637,ADWF4,46.9,Onshore Wind Turbine,WND,WT
+2016,1,59857,Murdock Solar LLC,IPP,Murdock Solar,NC,59509,PV1,4,Solar Photovoltaic,SUN,PV
+2016,1,59262,"NRG Solar Oasis, LLC",IPP,NRG Solar Oasis LLC,CA,59528,OASIS,20,Solar Photovoltaic,SUN,PV
+2016,1,59899,"OEE XVII, LLC",Commercial,Harpster Wind,OH,60126,H1,1.5,Onshore Wind Turbine,WND,WT
+2016,1,56545,Pattern Operators LP,IPP,Fowler Ridge IV Wind Farm LLC,IN,59547,1,150,Onshore Wind Turbine,WND,WT
+2016,1,59514,"River Mountains Solar, LLC",IPP,River Mountains Solar,NV,59747,1,14.4,Solar Photovoltaic,SUN,PV
+2016,1,59363,"Silver State Solar Power South, LLC",IPP,Silver State Solar Power South,NV,58644,BLK4,35.7,Solar Photovoltaic,SUN,PV
+2016,1,59836,Simons Solar Farm LLC,IPP,Simons Farm,NC,59149,SIMON,5,Solar Photovoltaic,SUN,PV
+2016,1,60183,"SolNCPower10, LLC",IPP,Hertford Solar Farm,NC,60384,HERT,5,Solar Photovoltaic,SUN,PV
+2016,1,58674,"Sonne One, LLC",IPP,Sonne One,NC,58782,PV1,5,Solar Photovoltaic,SUN,PV
+2016,1,60212,"South Winston Farm, LLC",IPP,"South Winston Farm, LLC",NC,60409,SWFPV,5.2,Solar Photovoltaic,SUN,PV
+2016,1,17650,Southern Power Co,IPP,Stateline Solar,CA,58646,STL3,37.9,Solar Photovoltaic,SUN,PV
+2016,1,58661,"Sustainable Power Group, LLC",IPP,SEPV 18,CA,59730,SPV18,2,Solar Photovoltaic,SUN,PV
+2016,1,59412,Tarboro Solar LLC,IPP,Tarboro Solar,NC,59648,5MWPV,5,Solar Photovoltaic,SUN,PV
+2016,1,59690,Vance Solar Farm LLC,IPP,"Vance Solar Farm, LLC",NC,59928,NB007,4.9,Solar Photovoltaic,SUN,PV
+2016,1,56948,Waverly Wind Farm LLC,IPP,Waverly Wind Farm LLC,KS,57614,GEN1,199,Onshore Wind Turbine,WND,WT
+2016,2,59841,70SM1 8ME LLC,IPP,Calipatria Solar Farm,CA,59088,GEN 1,20,Solar Photovoltaic,SUN,PV
+2016,2,40577,"American Mun Power-Ohio, Inc",Electric Utility,Willow Island Hydroelectric Plant,WV,57401,WIG2,22,Conventional Hydroelectric,WAT,HY
+2016,2,7977,City of Hamilton - (OH),Electric Utility,Meldahl Hydroelectric Project,KY,56872,1,35,Conventional Hydroelectric,WAT,HY
+2016,2,10908,City of Lenox - (IA),Electric Utility,Lenox,IA,1158,5,1.8,Petroleum Liquids,DFO,IC
+2016,2,56769,Consolidated Edison Development Inc.,IPP,Corcoran Solar 3,CA,59900,C3CA,20,Solar Photovoltaic,SUN,PV
+2016,2,57365,Consolidated Edison Solutions Inc,IPP,CES Cherry Hill Solar,NJ,60201,CHNJ,1.2,Solar Photovoltaic,SUN,PV
+2016,2,16064,Graphic Packaging International,Industrial,Plant 31 Paper Mill,LA,50028,GEN7,32,Natural Gas Fired Combined Cycle,NG,CC
+2016,2,59784,"Innovative Solar 63, LLC",IPP,"Innovative Solar 63, LLC",NC,60053,FLS1,4.9,Solar Photovoltaic,SUN,PV
+2016,2,59937,"Lemoore PV1, LLC",IPP,Lemoore 1,CA,60142,LEPV1,1.5,Solar Photovoltaic,SUN,PV
+2016,2,59791,Lindberg Field Solar I LLC,IPP,Lindberg FIeld Solar,CA,60060,SDIA2,2.1,Solar Photovoltaic,SUN,PV
+2016,2,59996,"Long Farm 46 Solar, LLC",IPP,"Long Farm 46 Solar, LLC",NC,60208,PV1,5,Solar Photovoltaic,SUN,PV
+2016,2,17470,PUD 1 of Snohomish County,Electric Utility,MESA 1,WA,60016,B,1,Batteries,MWH,BA
+2016,2,57313,SolarCity Corporation,IPP,Onondaga County - Metro Water Board,NY,60097,PV1,1,Solar Photovoltaic,SUN,PV
+2016,2,57313,SolarCity Corporation,IPP,Town of Needham VNEM,MA,60110,PV1,3,Solar Photovoltaic,SUN,PV
+2016,2,57313,SolarCity Corporation,IPP,Williamsburg Solar LLC VNEM,MA,60111,PV1,2.2,Solar Photovoltaic,SUN,PV
+2016,2,17650,Southern Power Co,IPP,Butler Solar Farm 20,GA,59891,1,20,Solar Photovoltaic,SUN,PV
+2016,2,17650,Southern Power Co,IPP,Stateline Solar,CA,58646,STL4,37.9,Solar Photovoltaic,SUN,PV
+2016,2,59788,Steel Bridge Solar. LLC,IPP,"Steel Bridge Solar, LLC",OR,60057,STEEL,2.3,Solar Photovoltaic,SUN,PV
+2016,2,59885,"UIL Distributed Resources, LLC",IPP,UDR Glastonbury Fuel Cell,CT,60109,UDRFC,2.5,Other Natural Gas,NG,FC
+2016,2,59969,Whitethorn Solar LLC,IPP,Whitethorn Solar LLC,CA,60193,GEN1,3.3,Solar Photovoltaic,SUN,PV
+2016,2,58984,Winton Solar LLC,IPP,Winton Solar,NC,59177,5MWPV,5,Solar Photovoltaic,SUN,PV
+2016,3,40577,"American Mun Power-Ohio, Inc",Electric Utility,Cannelton Hydroelectric Plant,KY,57399,CG2,29.3,Conventional Hydroelectric,WAT,HY
+2016,3,59789,"Avalon Solar Partners II, LLC",IPP,Avalon Solar II,AZ,60062,ASII,16,Solar Photovoltaic,SUN,PV
+2016,3,59842,"Blythe Solar 110, LLC",IPP,"Blythe Solar 110, LLC",CA,60093,BLCK1,38.7,Solar Photovoltaic,SUN,PV
+2016,3,298,City of Alexandria - (LA),Electric Utility,D G Hunter,LA,6558,10,8.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,298,City of Alexandria - (LA),Electric Utility,D G Hunter,LA,6558,11,8.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,298,City of Alexandria - (LA),Electric Utility,D G Hunter,LA,6558,5,8.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,298,City of Alexandria - (LA),Electric Utility,D G Hunter,LA,6558,6,8.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,298,City of Alexandria - (LA),Electric Utility,D G Hunter,LA,6558,7,8.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,298,City of Alexandria - (LA),Electric Utility,D G Hunter,LA,6558,8,8.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,298,City of Alexandria - (LA),Electric Utility,D G Hunter,LA,6558,9,8.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,20069,City of Wamego - (KS),Electric Utility,Wamego,KS,1328,10,2.9,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,60250,"DG Bethlehem Solar, LLC",IPP,Bethlehem - East,NY,60477,BE,1.7,Solar Photovoltaic,SUN,PV
+2016,3,60250,"DG Bethlehem Solar, LLC",IPP,Bethlehem - West,NY,60478,BW,1,Solar Photovoltaic,SUN,PV
+2016,3,60054,Duke Energy Florida Solar Solutions,Electric Utility,Walt Disney World Solar Facility,FL,59973,WDS1,4.9,Solar Photovoltaic,SUN,PV
+2016,3,6455,"Duke Energy Florida, Inc",Electric Utility,Osceola Solar Facility,FL,59954,XXXXX,3.8,Solar Photovoltaic,SUN,PV
+2016,3,3046,Duke Energy Progress - (NC),Electric Utility,Elm City Solar Facility,NC,59164,NSC 1,17.6,Solar Photovoltaic,SUN,PV
+2016,3,57249,EPP Renewable Energy,IPP,Nashua Plant,NH,55006,UNT3,1.5,Landfill Gas,LFG,IC
+2016,3,59735,"Enerparc CA2, LLC",IPP,"Enerparc CA2, LLC",CA,59978,ECA22,1.5,Solar Photovoltaic,SUN,PV
+2016,3,59402,Garysburg Solar LLC,IPP,Garysburg Solar,NC,59641,5MWPV,5,Solar Photovoltaic,SUN,PV
+2016,3,7353,Golden Valley Elec Assn Inc,Electric Utility,Healy,AK,6288,2,50,Conventional Steam Coal,LIG,ST
+2016,3,59209,"Half Moon Ventures, LLC",IPP,HMV Minster Energy Storage System,OH,60299,MIN02,7,Batteries,MWH,BA
+2016,3,59971,Kenansville Solar 2 LLC,IPP,"Kenansville Solar 2, LLC",NC,58803,INV1,0.5,Solar Photovoltaic,SUN,PV
+2016,3,59971,Kenansville Solar 2 LLC,IPP,"Kenansville Solar 2, LLC",NC,58803,INV2,0.5,Solar Photovoltaic,SUN,PV
+2016,3,59971,Kenansville Solar 2 LLC,IPP,"Kenansville Solar 2, LLC",NC,58803,INV3,0.5,Solar Photovoltaic,SUN,PV
+2016,3,59971,Kenansville Solar 2 LLC,IPP,"Kenansville Solar 2, LLC",NC,58803,INV4,0.5,Solar Photovoltaic,SUN,PV
+2016,3,58773,Kingfisher Wind LLC,IPP,Kingfisher Wind LLC,OK,58902,KNG1,298,Onshore Wind Turbine,WND,WT
+2016,3,58451,"McCoy Solar, LLC",IPP,McCoy Solar Energy Project,CA,58462,1,41.9,Solar Photovoltaic,SUN,PV
+2016,3,12320,Merck & Co Inc,Industrial,Elkton,VA,52148,GEN3,1,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,12320,Merck & Co Inc,Industrial,Elkton,VA,52148,GEN4,0.3,Natural Gas Internal Combustion Engine,NG,IC
+2016,3,60161,"Snow Camp, LLC",IPP,"Snow Camp Solar, LLC",NC,60367,SCSPV,5.2,Solar Photovoltaic,SUN,PV
+2016,3,17650,Southern Power Co,IPP,Pawpaw Solar Plant,GA,59894,1,30,Solar Photovoltaic,SUN,PV
+2016,3,59139,SunEdison LLC,IPP,SunE- E Philadelphia Ontario,CA,59916,12307,1,Solar Photovoltaic,SUN,PV
+2016,3,58661,"Sustainable Power Group, LLC",IPP,Latigo Wind Park,UT,59965,LTIGO,62.1,Onshore Wind Turbine,WND,WT
+2016,3,19876,Virginia Electric & Power Co,Electric Utility,Philip Morris,VA,59911,1,2,Solar Photovoltaic,SUN,PV
+2016,4,59912,Amethyst Solar LLC,IPP,Amethyst Solar,NC,58730,PV1,3,Solar Photovoltaic,SUN,PV
+2016,4,59910,Audrey Solar LLC,IPP,Audrey Solar,NC,58732,PV1,3,Solar Photovoltaic,SUN,PV
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN 1,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN 2,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN 3,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN 5,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN 6,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN 7,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN 8,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN 9,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN10,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN11,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN12,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Ball Mountain Hydro,VT,59040,GEN4,0.2,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN1,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN10,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN11,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN12,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN2,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN3,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN4,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN5,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN6,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN7,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN8,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,58877,Blue Heron Hydro LLC,IPP,Townshend Hydro,VT,59089,GEN9,0.1,Conventional Hydroelectric,WAT,HY
+2016,4,59842,"Blythe Solar 110, LLC",IPP,"Blythe Solar 110, LLC",CA,60093,BLCK2,36.3,Solar Photovoltaic,SUN,PV
+2016,4,59842,"Blythe Solar 110, LLC",IPP,"Blythe Solar 110, LLC",CA,60093,BLCK3,34.8,Solar Photovoltaic,SUN,PV
+2016,4,59228,"Bowerman Power LFG, LLC",IPP,"Bowerman Power LFG, LLC",CA,59461,GEN01,3.4,Landfill Gas,LFG,IC
+2016,4,59228,"Bowerman Power LFG, LLC",IPP,"Bowerman Power LFG, LLC",CA,59461,GEN02,3.4,Landfill Gas,LFG,IC
+2016,4,59228,"Bowerman Power LFG, LLC",IPP,"Bowerman Power LFG, LLC",CA,59461,GEN03,3.4,Landfill Gas,LFG,IC
+2016,4,59228,"Bowerman Power LFG, LLC",IPP,"Bowerman Power LFG, LLC",CA,59461,GEN04,3.4,Landfill Gas,LFG,IC
+2016,4,59228,"Bowerman Power LFG, LLC",IPP,"Bowerman Power LFG, LLC",CA,59461,GEN05,3.4,Landfill Gas,LFG,IC
+2016,4,59228,"Bowerman Power LFG, LLC",IPP,"Bowerman Power LFG, LLC",CA,59461,GEN06,3.4,Landfill Gas,LFG,IC
+2016,4,59228,"Bowerman Power LFG, LLC",IPP,"Bowerman Power LFG, LLC",CA,59461,GEN07,3.4,Landfill Gas,LFG,IC
+2016,4,57260,CSOLAR IV West LLC,IPP,Imperial Solar Energy Center West,CA,57491,56819,148.7,Solar Photovoltaic,SUN,PV
+2016,4,7977,City of Hamilton - (OH),Electric Utility,Meldahl Hydroelectric Project,KY,56872,3,35,Conventional Hydroelectric,WAT,HY
+2016,4,4254,Consumers Energy Co,Electric Utility,Grand Valley Solar Gardens,MI,60118,1,3,Solar Photovoltaic,SUN,PV
+2016,4,59745,First Solar Asset Management,IPP,Kingbird A Solar LLC,CA,59868,GEN01,20,Solar Photovoltaic,SUN,PV
+2016,4,59745,First Solar Asset Management,IPP,"Kingbird B Solar, LLC",CA,60091,GEN01,20,Solar Photovoltaic,SUN,PV
+2016,4,6452,Florida Power & Light Co,Electric Utility,Port Everglades,FL,617,5A,1260,Natural Gas Fired Combined Cycle,NG,CT
+2016,4,6452,Florida Power & Light Co,Electric Utility,Port Everglades,FL,617,5B, ,Natural Gas Fired Combined Cycle,NG,CT
+2016,4,6452,Florida Power & Light Co,Electric Utility,Port Everglades,FL,617,5C, ,Natural Gas Fired Combined Cycle,NG,CT
+2016,4,6452,Florida Power & Light Co,Electric Utility,Port Everglades,FL,617,5ST, ,Natural Gas Fired Combined Cycle,NG,CA
+2016,4,59403,Gaston Solar LLC,IPP,Gaston Solar,NC,59642,5MWPV,5,Solar Photovoltaic,SUN,PV
+2016,4,59462,"Heelstone Energy Holdings, LLC",IPP,Crestwood Solar Center LLC,NC,59914,CREST,5,Solar Photovoltaic,SUN,PV
+2016,4,49893,Invenergy Services LLC,IPP,Prairie Breeze III,NE,60314,GEN1,35.8,Onshore Wind Turbine,WND,WT
+2016,4,58451,"McCoy Solar, LLC",IPP,McCoy Solar Energy Project,CA,58462,BLK2,21,Solar Photovoltaic,SUN,PV
+2016,4,12524,Midwest Energy Inc,Electric Utility,Goodman Energy Center,KS,56497,10,9.2,Natural Gas Internal Combustion Engine,NG,IC
+2016,4,12524,Midwest Energy Inc,Electric Utility,Goodman Energy Center,KS,56497,11,9.2,Natural Gas Internal Combustion Engine,NG,IC
+2016,4,12524,Midwest Energy Inc,Electric Utility,Goodman Energy Center,KS,56497,12,9.2,Natural Gas Internal Combustion Engine,NG,IC
+2016,4,59911,Milo Solar LLC,IPP,Milo Solar,NC,58739,PV1,3,Solar Photovoltaic,SUN,PV
+2016,4,59913,Minnie Solar LLC,IPP,Minnie Solar,NC,58740,PV1,3,Solar Photovoltaic,SUN,PV
+2016,4,12199,Montana-Dakota Utilities Co,Electric Utility,Lewis & Clark,MT,6089,2,9.1,Natural Gas Internal Combustion Engine,NG,IC
+2016,4,12199,Montana-Dakota Utilities Co,Electric Utility,Lewis & Clark,MT,6089,3,9.1,Natural Gas Internal Combustion Engine,NG,IC
+2016,4,60211,"Nash 97 Solar, LLC",IPP,"Nash 97 Solar, LLC",NC,60408,97PV,5.2,Solar Photovoltaic,SUN,PV
+2016,4,59916,Owen Solar LLC,IPP,Owen Solar,NC,58742,PV1,5,Solar Photovoltaic,SUN,PV
+2016,4,59713,"Potrero Hills Energy Producers, LLC",IPP,Potrero Hills Energy Producers,CA,59952,1,1.6,Landfill Gas,LFG,IC
+2016,4,59713,"Potrero Hills Energy Producers, LLC",IPP,Potrero Hills Energy Producers,CA,59952,2,1.6,Landfill Gas,LFG,IC
+2016,4,59713,"Potrero Hills Energy Producers, LLC",IPP,Potrero Hills Energy Producers,CA,59952,3,1.6,Landfill Gas,LFG,IC
+2016,4,59713,"Potrero Hills Energy Producers, LLC",IPP,Potrero Hills Energy Producers,CA,59952,4,1.6,Landfill Gas,LFG,IC
+2016,4,59713,"Potrero Hills Energy Producers, LLC",IPP,Potrero Hills Energy Producers,CA,59952,5,1.6,Landfill Gas,LFG,IC
+2016,4,59363,"Silver State Solar Power South, LLC",IPP,Silver State Solar Power South,NV,58644,BLK5,35,Solar Photovoltaic,SUN,PV
+2016,4,59363,"Silver State Solar Power South, LLC",IPP,Silver State Solar Power South,NV,58644,BLK6,36.6,Solar Photovoltaic,SUN,PV
+2016,4,57313,SolarCity Corporation,IPP,Genentech-Oceanside,CA,60231,PV1,4.5,Solar Photovoltaic,SUN,PV
+2016,4,59914,Sophie Solar LLC,IPP,Sophie Solar,NC,58745,PV1,4.5,Solar Photovoltaic,SUN,PV
+2016,4,17609,Southern California Edison Co,Electric Utility,Tehachapi Energy Storage Project,CA,59661,TSP1,8,Batteries,MWH,BA
+2016,4,17650,Southern Power Co,IPP,"Grant Wind, LLC",OK,60013,GRANT,151.8,Onshore Wind Turbine,WND,WT
+2016,4,17650,Southern Power Co,IPP,Stateline Solar,CA,58646,STL5,37.9,Solar Photovoltaic,SUN,PV
+2016,4,59915,Star Solar LLC,IPP,Star Solar,NC,58746,PV1,5,Solar Photovoltaic,SUN,PV
+2016,4,58661,"Sustainable Power Group, LLC",Commercial,Southbridge Solar,MA,60278,SBRDG,1.9,Solar Photovoltaic,SUN,PV
+2016,4,19497,United Illuminating Co,Electric Utility,UI RCP Bridgeport Seaside,CT,60054,BPPV,2.2,Solar Photovoltaic,SUN,PV
+2016,4,19876,Virginia Electric & Power Co,Electric Utility,Brunswick County Power Station,VA,58260,CT01,263.9,Natural Gas Fired Combined Cycle,NG,CT
+2016,4,19876,Virginia Electric & Power Co,Electric Utility,Brunswick County Power Station,VA,58260,CT02,263.9,Natural Gas Fired Combined Cycle,NG,CT
+2016,4,19876,Virginia Electric & Power Co,Electric Utility,Brunswick County Power Station,VA,58260,CT03,263.9,Natural Gas Fired Combined Cycle,NG,CT
+2016,4,19876,Virginia Electric & Power Co,Electric Utility,Brunswick County Power Station,VA,58260,ST01,579.4,Natural Gas Fired Combined Cycle,NG,CA
+2016,4,19876,Virginia Electric & Power Co,Electric Utility,Western Branch High School,VA,59904,1,1,Solar Photovoltaic,SUN,PV
+2016,4,58982,Woodland Solar LLC,IPP,Woodland Solar,NC,59175,5MWPV,5,Solar Photovoltaic,SUN,PV
+2016,4,60059,ZGlobal Inc,IPP,Castor Solar,CA,60277,CASTR,1.5,Solar Photovoltaic,SUN,PV
+2016,5,60281,"Altus Power America Management, LLC",IPP,Rail Trail,MA,60492,PV1,2,Solar Photovoltaic,SUN,PV
+2016,5,60281,"Altus Power America Management, LLC",IPP,Rising Paper,MA,60493,1,2.5,Solar Photovoltaic,SUN,PV
+2016,5,59359,"BHE Renewables, LLC",IPP,Marshall Wind Farm,KS,59084,RPMA,73.8,Onshore Wind Turbine,WND,WT
+2016,5,60157,"Battleboro Farm, LLC",IPP,Battleboro Farm,NC,60369,BFPV,5.2,Solar Photovoltaic,SUN,PV
+2016,5,58468,Dominion Renewable Energy,IPP,Marin Carport,CA,59703,1,1,Solar Photovoltaic,SUN,PV
+2016,5,56215,E ON Climate Renewables N America LLC,IPP,"Colbec's Corner, LLC",TX,59068,GVII,200,Onshore Wind Turbine,WND,WT
+2016,5,49942,Eagle Point Power Generation LLC,IPP,Eagle Point Power Generation,NJ,50561,STG2,26.8,Natural Gas Fired Combined Cycle,NG,CA
+2016,5,58135,Ecos Energy LLC,IPP,Sudbury Solar,VT,60344,SUD,2,Solar Photovoltaic,SUN,PV
+2016,5,5701,El Paso Electric Co,Electric Utility,Montana Power Station,TX,58562,GT-3,100,Natural Gas Fired Combustion Turbine,NG,GT
+2016,5,5860,Empire District Electric Co,Electric Utility,Riverton,KS,1239,12-2,117,Natural Gas Fired Combined Cycle,NG,CA
+2016,5,6452,Florida Power & Light Co,Electric Utility,Daytona International Speedway Solar,FL,60005,1,0.8,Solar Photovoltaic,SUN,PV
+2016,5,6452,Florida Power & Light Co,Electric Utility,FIU Solar,FL,60006,1,0.8,Solar Photovoltaic,SUN,PV
+2016,5,7349,"Golden Spread Electric Cooperative, Inc",Electric Utility,Elk Station,TX,58835,ELK2,189,Natural Gas Fired Combustion Turbine,NG,GT
+2016,5,7349,"Golden Spread Electric Cooperative, Inc",Electric Utility,Elk Station,TX,58835,ELK3,189,Natural Gas Fired Combustion Turbine,NG,GT
+2016,5,60187,Granger Energy of Morgantown,IPP,Granger Energy of Morgantown,PA,60388,GEMT,1.6,Landfill Gas,LFG,IC
+2016,5,10171,Kentucky Utilities Co,Electric Utility,E W Brown,KY,1355,SOLAR,10,Solar Photovoltaic,SUN,PV
+2016,5,56990,NJR Clean Energy Ventures Corporation,IPP,East Amwell,NJ,60327,AMWEL,1.8,Solar Photovoltaic,SUN,PV
+2016,5,56990,NJR Clean Energy Ventures Corporation,IPP,Junction Road,NJ,60265,JUNCT,4.4,Solar Photovoltaic,SUN,PV
+2016,5,56990,NJR Clean Energy Ventures Corporation,IPP,Sharon Station,NJ,60267,SHRN1,2.7,Solar Photovoltaic,SUN,PV
+2016,5,59893,Northern Water Hydropower Enterprise,Commercial,Granby Hydro,CO,60119,GEN1,1.2,Conventional Hydroelectric,WAT,HY
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG1,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG10,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG2,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG3,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG4,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG5,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG6,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG7,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG8,0.6,Petroleum Liquids,DFO,IC
+2016,5,40229,Old Dominion Electric Coop,Electric Utility,Monterey Diesel Generation Facility,VA,59614,MDG9,0.6,Petroleum Liquids,DFO,IC
+2016,5,59766,"SR Jenkins, LLC",IPP,SR Jenkins Ft Lupton,CO,60023,FTLUP,13,Solar Photovoltaic,SUN,PV
+2016,5,58544,Sierra Nevada Brewing Co,Industrial,Sierra Nevada Brewing Co,CA,58585,COGN,1.7,Natural Gas Fired Combustion Turbine,NG,GT
+2016,5,59363,"Silver State Solar Power South, LLC",IPP,Silver State Solar Power South,NV,58644,BLK7,35,Solar Photovoltaic,SUN,PV
+2016,5,59698,"Sky Global Power One Pledgor, LLC",IPP,Sky Global Power One,TX,59938,UNIT1,8.3,Natural Gas Internal Combustion Engine,NG,IC
+2016,5,59698,"Sky Global Power One Pledgor, LLC",IPP,Sky Global Power One,TX,59938,UNIT2,8.3,Natural Gas Internal Combustion Engine,NG,IC
+2016,5,59698,"Sky Global Power One Pledgor, LLC",IPP,Sky Global Power One,TX,59938,UNIT3,8.3,Natural Gas Internal Combustion Engine,NG,IC
+2016,5,59698,"Sky Global Power One Pledgor, LLC",IPP,Sky Global Power One,TX,59938,UNIT4,8.3,Natural Gas Internal Combustion Engine,NG,IC
+2016,5,59698,"Sky Global Power One Pledgor, LLC",IPP,Sky Global Power One,TX,59938,UNIT5,8.3,Natural Gas Internal Combustion Engine,NG,IC
+2016,5,59698,"Sky Global Power One Pledgor, LLC",IPP,Sky Global Power One,TX,59938,UNIT6,8.3,Natural Gas Internal Combustion Engine,NG,IC
+2016,5,60117,SunShare,IPP,"Jeffco Community Solar Gardens, LLC",CO,60320,SSCO1,1.2,Solar Photovoltaic,SUN,PV
+2016,5,58661,"Sustainable Power Group, LLC",IPP,Central Antelope Dry Ranch C,CA,59963,CADRC,20,Solar Photovoltaic,SUN,PV
+2016,5,59570,"TWE Kelford Solar Project, LLC",IPP,Kelford,NC,59796,FLS1,4.7,Solar Photovoltaic,SUN,PV
+2016,5,40575,Utah Associated Mun Power Sys,Electric Utility,Veyo Heat Recovery Project,UT,60421,WHR1,8.4,All Other,WH,ST
+2016,5,60067,Westside Assets LLC,IPP,Westside Solar Power PV1,CA,60275,WSPV1,2,Solar Photovoltaic,SUN,PV
+2016,6,221,"Alaska Village Elec Coop, Inc",Electric Utility,Hooper Bay,AK,6319,5A,0.8,Petroleum Liquids,DFO,IC
+2016,6,40577,"American Mun Power-Ohio, Inc",Electric Utility,Cannelton Hydroelectric Plant,KY,57399,CG3,29.3,Conventional Hydroelectric,WAT,HY
+2016,6,58685,Beaver Dam Energy LLC,IPP,Beaver Dam,PA,58811,GEN1,4.2,Natural Gas Internal Combustion Engine,NG,IC
+2016,6,58685,Beaver Dam Energy LLC,IPP,Beaver Dam,PA,58811,GEN2,4.2,Natural Gas Internal Combustion Engine,NG,IC
+2016,6,58685,Beaver Dam Energy LLC,IPP,Beaver Dam,PA,58811,GEN3,4.2,Natural Gas Internal Combustion Engine,NG,IC
+2016,6,58685,Beaver Dam Energy LLC,IPP,Beaver Dam,PA,58811,GEN4,4.2,Natural Gas Internal Combustion Engine,NG,IC
+2016,6,58685,Beaver Dam Energy LLC,IPP,Beaver Dam,PA,58811,GEN5,4.2,Natural Gas Internal Combustion Engine,NG,IC
+2016,6,58695,Coronal Development Services,IPP,Holdrege Solar Center,NE,59713,HDSC,4,Solar Photovoltaic,SUN,PV
+2016,6,59263,"Fresh Air Energy XVIII, LLC",IPP,Meadows PV 1,NC,59513,MEAD1,20,Solar Photovoltaic,SUN,PV
+2016,6,59776,"Frontier Solar, LLC",IPP,Frontier Solar LLC,CA,60039,FTRS,20,Solar Photovoltaic,SUN,PV
+2016,6,9273,Indianapolis Power & Light Co,Electric Utility,Harding Street,IN,990,BAT1,20,Batteries,MWH,BA
+2016,6,49893,Invenergy Services LLC,IPP,Gunsight Mountain Wind Energy LLC,TX,56776,1,120,Onshore Wind Turbine,WND,WT
+2016,6,56211,KCP&L Greater Missouri Operations Co,Electric Utility,Greenwood (MO),MO,6074,5,3,Solar Photovoltaic,SUN,PV
+2016,6,26253,Louisiana Energy & Power Authority,Electric Utility,LEPA Unit No. 1,LA,58478,LEPA1,59,Natural Gas Fired Combined Cycle,NG,CC
+2016,6,58451,"McCoy Solar, LLC",IPP,McCoy Solar Energy Project,CA,58462,BLK3,39.6,Solar Photovoltaic,SUN,PV
+2016,6,12397,Metropolitan Water District of S CA,Electric Utility,Weymouth Solar Plant,CA,60255,1,2,Solar Photovoltaic,SUN,PV
+2016,6,12397,Metropolitan Water District of S CA,Electric Utility,Weymouth Solar Plant,CA,60255,2,1,Solar Photovoltaic,SUN,PV
+2016,6,58417,Panda Liberty O&M LLC,IPP,Panda Liberty Generation Plant,PA,58420,GEN1,376,Natural Gas Fired Combined Cycle,NG,CS
+2016,6,16179,Rochelle Municipal Utilities,Electric Utility,South Main Street,IL,961,16,1.8,Petroleum Liquids,DFO,IC
+2016,6,16179,Rochelle Municipal Utilities,Electric Utility,South Main Street,IL,961,17,1.8,Petroleum Liquids,DFO,IC
+2016,6,16179,Rochelle Municipal Utilities,Electric Utility,South Main Street,IL,961,18,1.8,Petroleum Liquids,DFO,IC
+2016,6,59404,Seaboard Solar LLC,IPP,Seaboard Solar LLC,NC,59643,5MWPV,5,Solar Photovoltaic,SUN,PV
+2016,6,59363,"Silver State Solar Power South, LLC",IPP,Silver State Solar Power South,NV,58644,BLK8,16.2,Solar Photovoltaic,SUN,PV
+2016,6,60206,"Solar Star California XL, LLC",IPP,RCWD PV Project,CA,60426,RCWD,1.9,Solar Photovoltaic,SUN,PV
+2016,6,59837,"South Plains Wind Energy II, LLC",IPP,South Plains II,TX,60087,SPII,300,Onshore Wind Turbine,WND,WT
+2016,6,17650,Southern Power Co,IPP,Stateline Solar,CA,58646,STL6,37.9,Solar Photovoltaic,SUN,PV
+2016,6,58661,"Sustainable Power Group, LLC",IPP,Leavenworth Greenworks LLC,NY,59276,LEAVG,9.5,Solar Photovoltaic,SUN,PV
+2016,6,58661,"Sustainable Power Group, LLC",IPP,SEPV Mojave West,CA,59740,SPVMW,20,Solar Photovoltaic,SUN,PV
+2016,6,59328,"Tart Farm, LLC",IPP,Tart Farm,NC,59583,PV1,5,Solar Photovoltaic,SUN,PV
+2016,6,18642,Tennessee Valley Authority,Electric Utility,Watts Bar Nuclear Plant,TN,7722,2,1122,Nuclear,NUC,ST
+2016,6,20910,Wolverine Power Supply Coop,Electric Utility,Alpine Power Plant,MI,59926,AI1,202.6,Natural Gas Fired Combustion Turbine,NG,GT
+2016,7,59273,"62SK 8me, LLC",IPP,Springbok Solar Farm 1,CA,59532,SB1,100,Solar Photovoltaic,SUN,PV
+2016,7,59050,Algonquin Power Co,IPP,Odell Wind Farm,MN,58657,1,200,Onshore Wind Turbine,WND,WT
+2016,7,59843,"Blythe Solar II, LLC",IPP,"Blythe Solar II, LLC",CA,60092,BLCK4,33.2,Solar Photovoltaic,SUN,PV
+2016,7,60204,"CB Bladen Solar, LLC",IPP,"CB Bladen Solar, LLC",NC,60402,CBPV,5.2,Solar Photovoltaic,SUN,PV
+2016,7,57044,"Constellation Solar New Jersey, LLC",IPP,NHA at Mansfield NJ,NJ,60378,PV1,5,Solar Photovoltaic,SUN,PV
+2016,7,58468,Dominion Renewable Energy,IPP,"Enterprise Solar, LLC",UT,59386,ENTS1,80,Solar Photovoltaic,SUN,PV
+2016,7,59765,Eight Flags Energy LLC,Electric CHP,Eight Flags Energy,FL,60025,1,19.8,Natural Gas Fired Combustion Turbine,NG,GT
+2016,7,59939,"Floyd Solar, LLC",IPP,"Floyd Solar, LLC",NC,60147,FLS1,6.5,Solar Photovoltaic,SUN,PV
+2016,7,11208,Los Angeles Department of Water & Power,Electric Utility,Scattergood,CA,404,4,214.4,Natural Gas Fired Combined Cycle,NG,CT
+2016,7,11208,Los Angeles Department of Water & Power,Electric Utility,Scattergood,CA,404,5,107.2,Natural Gas Fired Combined Cycle,NG,CA
+2016,7,11208,Los Angeles Department of Water & Power,Electric Utility,Scattergood,CA,404,6,105.8,Natural Gas Fired Combustion Turbine,NG,GT
+2016,7,11208,Los Angeles Department of Water & Power,Electric Utility,Scattergood,CA,404,7,105.8,Natural Gas Fired Combustion Turbine,NG,GT
+2016,7,59120,"Los Vientos Windpower IV, LLC",IPP,Los Vientos Windpower IV,TX,59321,GEN1,200,Onshore Wind Turbine,WND,WT
+2016,7,12869,Monterey Regional Waste Mgmt,Commercial,Marina Landfill Gas,CA,10748,U4J16,1.2,Landfill Gas,LFG,IC
+2016,7,60145,NRG Solar Las Vegas MB 2,IPP,"NRG Solar Las Vegas MB 2, LLC",NV,60350,LVMB2,1.5,Solar Photovoltaic,SUN,PV
+2016,7,14624,PUD No 2 of Grant County,Electric Utility,Wanapum,WA,3888,6A,122,Conventional Hydroelectric,WAT,HY
+2016,7,58417,Panda Liberty O&M LLC,IPP,Panda Liberty Generation Plant,PA,58420,GEN2,382.5,Natural Gas Fired Combined Cycle,NG,CS
+2016,7,58421,Panda Patriot O&M LLC,IPP,Panda Patriot Generation Plant,PA,58426,GEN1,382.5,Natural Gas Fired Combined Cycle,NG,CS
+2016,7,58421,Panda Patriot O&M LLC,IPP,Panda Patriot Generation Plant,PA,58426,GEN2,382.5,Natural Gas Fired Combined Cycle,NG,CS
+2016,7,59016,Passadumkeag Windpark LLC,IPP,Passadumkeag Windpark LLC,ME,59222,Q357,39.9,Onshore Wind Turbine,WND,WT
+2016,7,15248,Portland General Electric Co,Electric Utility,Carty Generating Station,OR,58503,GEN1,300,Natural Gas Fired Combined Cycle,NG,CT
+2016,7,15248,Portland General Electric Co,Electric Utility,Carty Generating Station,OR,58503,GEN2,200,Natural Gas Fired Combined Cycle,NG,CA
+2016,7,60068,Red Horse III,IPP,Red Horse III,AZ,60285,RH3,30,Solar Photovoltaic,SUN,PV
+2016,7,57313,SolarCity Corporation,IPP,Chesapeake College,MD,60465,PV1,1.5,Solar Photovoltaic,SUN,PV
+2016,7,57313,SolarCity Corporation,IPP,Jackson Board of Education-Liberty HS,NJ,60113,PV1,1.2,Solar Photovoltaic,SUN,PV
+2016,7,57313,SolarCity Corporation,IPP,Oregon Convention Center,OR,60112,PV1,1.4,Solar Photovoltaic,SUN,PV
+2016,7,17650,Southern Power Co,IPP,RE Tranquillity,CA,59939,TQ,205.3,Solar Photovoltaic,SUN,PV
+2016,7,17650,Southern Power Co,IPP,Stateline Solar,CA,58646,STL7,37.9,Solar Photovoltaic,SUN,PV
+2016,7,18125,Stillwater Utilities Authority,Electric Utility,Stillwater Energy Center,OK,59647,1,18.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,7,18125,Stillwater Utilities Authority,Electric Utility,Stillwater Energy Center,OK,59647,2,18.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,7,18125,Stillwater Utilities Authority,Electric Utility,Stillwater Energy Center,OK,59647,3,18.6,Natural Gas Internal Combustion Engine,NG,IC
+2016,7,58661,"Sustainable Power Group, LLC",IPP,Summer Solar LLC,CA,60280,SUMSL,20,Solar Photovoltaic,SUN,PV
+2016,7,59598,Tooele Army Depot,IPP,Tooele Wind Turbine,UT,59817,GEN03,1.7,Onshore Wind Turbine,WND,WT
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-1,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-2,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-3,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-4,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-5,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-6,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-7,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-8,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV-9,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58600,Waihonu North LLC,IPP,Waihonu North Solar,HI,58655,INV10,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58601,Waihonu South LLC,IPP,Honbushin Solar Blessings Park,HI,58656,INV-1,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58601,Waihonu South LLC,IPP,Honbushin Solar Blessings Park,HI,58656,INV-2,0.5,Solar Photovoltaic,SUN,PV
+2016,7,58601,Waihonu South LLC,IPP,Honbushin Solar Blessings Park,HI,58656,INV-3,0.5,Solar Photovoltaic,SUN,PV
+2016,7,60237,"Whitakers Farm, LLC",IPP,Whitakers Farm (Fisher Rd),NC,60438,1,3.4,Solar Photovoltaic,SUN,PV
+2016,7,59831,"White Oak Solar, LLC",IPP,"White Oak Solar, LLC",GA,60082,WHTOK,76.5,Solar Photovoltaic,SUN,PV
+2016,7,59803,"White Pine Solar, LLC",IPP,"White Pine Solar, LLC",GA,60064,WHTPN,101.2,Solar Photovoltaic,SUN,PV
+2016,7,60234,"Williamston West Farm, LLC",IPP,"Williamston West Farm, LLC",NC,60484,1,4.9,Solar Photovoltaic,SUN,PV
+2016,7,20847,Wisconsin Electric Power Co,Electric Utility,Twin Falls (WI),WI,59836,11,4.6,Conventional Hydroelectric,WAT,HY
+2016,7,20847,Wisconsin Electric Power Co,Electric Utility,Twin Falls (WI),WI,59836,12,4.6,Conventional Hydroelectric,WAT,HY
+2016,7,20910,Wolverine Power Supply Coop,Electric Utility,Alpine Power Plant,MI,59926,AI2,202.6,Natural Gas Fired Combustion Turbine,NG,GT
+2016,8,60281,"Altus Power America Management, LLC",IPP,Shirley Water,MA,60498,1,2,Solar Photovoltaic,SUN,PV
+2016,8,59843,"Blythe Solar II, LLC",IPP,"Blythe Solar II, LLC",CA,60092,BLCK5,33.9,Solar Photovoltaic,SUN,PV
+2016,8,59903,Candace Solar LLC,IPP,Candace Solar,NC,59499,PV1,5,Solar Photovoltaic,SUN,PV
+2016,8,58519,Clean Energy Collective LLC,IPP,CPS 1,TX,60472,CPS1,1,Solar Photovoltaic,SUN,PV
+2016,8,59938,"Cohen Farm Solar, LLC",IPP,"Cohen Farm Solar, LLC",NC,60146,FLS1,6.5,Solar Photovoltaic,SUN,PV
+2016,8,56769,Consolidated Edison Development Inc.,IPP,"CED Westfield Solar, LLC",MA,60274,WFMA,2,Solar Photovoltaic,SUN,PV
+2016,8,56769,Consolidated Edison Development Inc.,IPP,OCI Alamo 7 LLC,TX,59207,OCIA7,100,Solar Photovoltaic,SUN,PV
+2016,8,57365,Consolidated Edison Solutions Inc,IPP,Future Generation Wind,MA,59622,FGMA,7.9,Onshore Wind Turbine,WND,WT
+2016,8,4254,Consumers Energy Co,Electric Utility,Western Michigan Solar Gardens,MI,60117,1,1,Solar Photovoltaic,SUN,PV
+2016,8,58468,Dominion Renewable Energy,IPP,"Escalante Solar I, LLC",UT,59387,ESCS1,80,Solar Photovoltaic,SUN,PV
+2016,8,58468,Dominion Renewable Energy,IPP,"Escalante Solar II, LLC",UT,59388,ESCS2,80,Solar Photovoltaic,SUN,PV
+2016,8,58468,Dominion Renewable Energy,IPP,"Escalante Solar III, LLC",UT,59389,ESCS3,80,Solar Photovoltaic,SUN,PV
+2016,8,58468,Dominion Renewable Energy,IPP,Iron Springs Solar,UT,59941,ISS,80,Solar Photovoltaic,SUN,PV
+2016,8,6455,"Duke Energy Florida, Inc",Electric Utility,Perry Solar Facility,FL,60071,XXXXX,5.1,Solar Photovoltaic,SUN,PV
+2016,8,59745,First Solar Asset Management,IPP,"Rancho Seco Solar, LLC",CA,60226,GEN01,10.8,Solar Photovoltaic,SUN,PV
+2016,8,60235,"ID Solar 1, LLC",IPP,ID Solar,ID,60445,INV1,40,Solar Photovoltaic,SUN,PV
+2016,8,9324,Indiana Michigan Power Co,Electric Utility,OlivePV,IN,59854,OLPV1,5,Solar Photovoltaic,SUN,PV
+2016,8,9324,Indiana Michigan Power Co,Electric Utility,Twin Branch PV,IN,59861,TBPV1,2.6,Solar Photovoltaic,SUN,PV
+2016,8,59897,"LKL Goldfinch, LLC",IPP,Goldfinch,FL,60124,GFNCH,3,Solar Photovoltaic,SUN,PV
+2016,8,60190,"MC1 Solar Farm, LLC",IPP,MC1 Solar,NC,60395,MC1PV,5,Solar Photovoltaic,SUN,PV
+2016,8,60213,"Modlin Solar, LLC",IPP,Modlin Solar Farm,NC,60417,MSFPV,4.9,Solar Photovoltaic,SUN,PV
+2016,8,9436,Mosaic Phosphates Co.,Industrial,Mosaic Phosphates Uncle Sam,LA,10198,GEN3,15,All Other,OTH,ST
+2016,8,58489,OCI Solar Power,IPP,OCI Alamo Solar I,TX,58537,ASTRO,1,Batteries,MWH,BA
+2016,8,58838,"Parrey, LLC",IPP,Henrietta Solar Project,CA,58975,PV1,100,Solar Photovoltaic,SUN,PV
+2016,8,60191,"RE Barren Ridge 1, LLC",IPP,RE Barren Ridge 1,CA,60389,REBR1,60,Solar Photovoltaic,SUN,PV
+2016,8,58968,RE Mustang LLC,IPP,RE Mustang LLC,CA,59150,PV1,100,Solar Photovoltaic,SUN,PV
+2016,8,60280,"River Road Solar, LLC",IPP,"River Road Solar, LLC",NC,60487,PV1,5,Solar Photovoltaic,SUN,PV
+2016,8,59662,"Riverside Fuel Cell, LLC",Commercial,Riverside RWQCP Fuel Cell,CA,59877,MB20,1.4,Other Waste Biomass,OBG,FC
+2016,8,60209,"Roswell Solar, LLC",IPP,"Roswell Solar, LLC",NM,60406,RSPV,70,Solar Photovoltaic,SUN,PV
+2016,8,57313,SolarCity Corporation,IPP,The Clorox Company,MD,60461,PV1,1.6,Solar Photovoltaic,SUN,PV
+2016,8,59773,"SunE Solar XVI Lessor, LLC",IPP,SunE Rochester,CA,60032,RCHTR,1,Solar Photovoltaic,SUN,PV
+2016,8,58661,"Sustainable Power Group, LLC",IPP,Antelope Big Sky Ranch,CA,60279,ABSR,20,Solar Photovoltaic,SUN,PV
+2016,8,59963,"TWE New Bern Solar Project, LLC",IPP,"TWE New Bern Solar Project, LLC",NC,60191,FLS1,4,Solar Photovoltaic,SUN,PV
+2016,8,59108,"WED Coventry Four, LLC",IPP,WED Coventry 4,RI,59306,WEDC4,1.5,Onshore Wind Turbine,WND,WT
+2016,8,59117,"WED Coventry Six, LLC",IPP,WED Coventry 6,RI,59314,COV6,1.5,Onshore Wind Turbine,WND,WT
+2016,8,59117,"WED Coventry Six, LLC",IPP,WED Coventry 6,RI,59314,COV6A,1.5,Onshore Wind Turbine,WND,WT
+2016,8,59117,"WED Coventry Six, LLC",IPP,WED Coventry 6,RI,59314,COV6B,1.5,Onshore Wind Turbine,WND,WT
+2016,8,59107,"WED Coventry Three, LLC",IPP,WED Coventry 3,RI,59305,WEDC3,1.5,Onshore Wind Turbine,WND,WT
+2016,8,59106,"WED Coventry Two, LLC",IPP,WED Coventry 2,RI,59302,COV2,1.5,Onshore Wind Turbine,WND,WT
+2016,8,59106,"WED Coventry Two, LLC",IPP,WED Coventry 2,RI,59302,COV2A,1.5,Onshore Wind Turbine,WND,WT
+2016,8,59106,"WED Coventry Two, LLC",IPP,WED Coventry 2,RI,59302,COV2B,1.5,Onshore Wind Turbine,WND,WT
+2016,8,60156,"White Farm Solar, LLC",IPP,"White Farm Solar, LLC",NC,60363,WFSPV,5.2,Solar Photovoltaic,SUN,PV
+2016,9,59616,"63SU 8me, LLC",IPP,Springbok Solar Farm 2,CA,59840,SB2,155,Solar Photovoltaic,SUN,PV
+2016,9,772,Archer Daniels Midland Co,Industrial,Archer Daniels Midland Cedar Rapids,IA,10864,GEN7,35,Natural Gas Fired Combustion Turbine,NG,GT
+2016,9,59843,"Blythe Solar II, LLC",IPP,"Blythe Solar II, LLC",CA,60092,BLCK6,32,Solar Photovoltaic,SUN,PV
+2016,9,58519,Clean Energy Collective LLC,IPP,Carver MA 1,MA,60442,CMA1,2,Solar Photovoltaic,SUN,PV
+2016,9,58519,Clean Energy Collective LLC,IPP,Wareham MA 1,MA,60443,WMA1,2,Solar Photovoltaic,SUN,PV
+2016,9,58519,Clean Energy Collective LLC,IPP,Westport MA 1,MA,60473,WPMA1,1.3,Solar Photovoltaic,SUN,PV
+2016,9,58519,Clean Energy Collective LLC,IPP,Westport MA 2,MA,60476,WPMA2,1.2,Solar Photovoltaic,SUN,PV
+2016,9,59429,Comanche LLC,IPP,Comanche Solar,CO,59656,COMCH,120,Solar Photovoltaic,SUN,PV
+2016,9,59595,"Copper Mountain Solar 4, LLC",IPP,"Copper Mountain Solar 4, LLC",NV,59814,PV02,41.8,Solar Photovoltaic,SUN,PV
+2016,9,58695,Coronal Development Services,IPP,"County Home Solar Center, LLC",NC,60199,CHSC1,2,Solar Photovoltaic,SUN,PV
+2016,9,58695,Coronal Development Services,IPP,"Grove Solar Center, LLC",OR,60330,GSC1,6,Solar Photovoltaic,SUN,PV
+2016,9,58695,Coronal Development Services,IPP,Mariposa Solar Center LLC,NC,59162,MSC 1,5,Solar Photovoltaic,SUN,PV
+2016,9,58695,Coronal Development Services,IPP,"Open Range Solar Center, LLC",OR,60332,ORSC1,10,Solar Photovoltaic,SUN,PV
+2016,9,58468,Dominion Renewable Energy,IPP,Granite Mountain Solar East,UT,59946,GMSE,80,Solar Photovoltaic,SUN,PV
+2016,9,58468,Dominion Renewable Energy,IPP,Granite Mountain Solar West,UT,59945,GMSW,50.4,Solar Photovoltaic,SUN,PV
+2016,9,5701,El Paso Electric Co,Electric Utility,Montana Power Station,TX,58562,GT-4,100,Natural Gas Fired Combustion Turbine,NG,GT
+2016,9,59258,"Five Points Solar Park, LLC",IPP,Five Points Solar Park,CA,59523,FRFSP,60,Solar Photovoltaic,SUN,PV
+2016,9,60158,"Flint Hill Solar, LLC",IPP,"Flint Hill Solar, LLC",NC,60370,FHSPV,5.2,Solar Photovoltaic,SUN,PV
+2016,9,57104,Golden Springs Development Company LLC,IPP,Building G,CA,60153,BLDGG,1.2,Solar Photovoltaic,SUN,PV
+2016,9,57104,Golden Springs Development Company LLC,IPP,Dulles,CA,60182,DULLE,2,Solar Photovoltaic,SUN,PV
+2016,9,60215,"Hardison Farm Solar, LLC",IPP,"Hardison Farm Solar, LLC",NC,60415,HFSPV,5.2,Solar Photovoltaic,SUN,PV
+2016,9,9267,"Hoosier Energy R E C, Inc",Electric Utility,Henryville Solar RES,IN,59986,PV1,1.1,Solar Photovoltaic,SUN,PV
+2016,9,9267,"Hoosier Energy R E C, Inc",Electric Utility,New Haven Solar RES,IN,59983,PV1,1.1,Solar Photovoltaic,SUN,PV
+2016,9,9234,Indiana Municipal Power Agency,Electric Utility,IMPA Huntingburg Solar Park,IN,60251,SHUNT,2,Solar Photovoltaic,SUN,PV
+2016,9,9234,Indiana Municipal Power Agency,Electric Utility,IMPA Washington Solar Park,IN,60252,SWASH,4,Solar Photovoltaic,SUN,PV
+2016,9,59245,Lanier Solar,IPP,Lanier Solar,NC,59486,LANIE,4.9,Solar Photovoltaic,SUN,PV
+2016,9,60214,"Maxton Solar, LLC",IPP,"Maxton Solar, LLC",NC,60416,MSPV,4.9,Solar Photovoltaic,SUN,PV
+2016,9,12341,MidAmerican Energy Co,Electric Utility,Ida Grove Wind,IA,60342,IGWF,28.6,Onshore Wind Turbine,WND,WT
+2016,9,12341,MidAmerican Energy Co,Electric Utility,O'Brien Wind,IA,60326,OBWF,61.9,Onshore Wind Turbine,WND,WT
+2016,9,56990,NJR Clean Energy Ventures Corporation,IPP,Bernards Solar,NJ,60437,BERNS,2.9,Solar Photovoltaic,SUN,PV
+2016,9,60185,"Nicolis, LLC",IPP,Nicolis Solar PV Plant,CA,59600,GEN1,19,Solar Photovoltaic,SUN,PV
+2016,9,15500,Puget Sound Energy Inc,Electric Utility,Glacier Battery Storage,WA,60444,GLA,2,Batteries,MWH,BA
+2016,9,59790,"River Bend Solar, LLC",IPP,"River Bend Solar, LLC",AL,60058,RVRBN,75,Solar Photovoltaic,SUN,PV
+2016,9,60263,"SR Skylark B, LLC",IPP,SR Skylark B,CO,60497,SKY B,2,Solar Photovoltaic,SUN,PV
+2016,9,59605,South Louisburg Solar LLC,IPP,South Louisburg Solar,NC,59825,5MWPV,5,Solar Photovoltaic,SUN,PV
+2016,9,60045,"Stainback Solar Farm, LLC",IPP,Stainback Solar Farm,NC,60257,INV1,5,Solar Photovoltaic,SUN,PV
+2016,9,60216,"Sullivan Solar, LLC",IPP,"Sullivan Solar, LLC",IN,60410,SULPV,5.2,Solar Photovoltaic,SUN,PV
+2016,9,60184,"Tropico, LLC",IPP,Tropico Solar PV Plant,CA,59599,GEN1,13,Solar Photovoltaic,SUN,PV
+2016,9,60142,"Wortham Solar Farm, LLC",IPP,Wortham Solar Farm,NC,60361,INV1,5,Solar Photovoltaic,SUN,PV
+2016,10,60242,"Athens Energy, LLC",IPP,Athens Energy,ME,60457,1,7,Wood/Wood Waste Biomass,WDS,OT
+2016,10,57421,BayWa r.e Wind LLC,IPP,Chopin Wind LLC,OR,59076,WT1,10,Onshore Wind Turbine,WND,WT
+2016,10,60143,Bison Solar LLC,IPP,Bison Solar LLC,CO,60351,BSPV1,30,Solar Photovoltaic,SUN,PV
+2016,10,59843,"Blythe Solar II, LLC",IPP,"Blythe Solar II, LLC",CA,60092,BLCK7,32.1,Solar Photovoltaic,SUN,PV
+2016,10,60208,Chaves Solar LLC,IPP,"Chaves Solar, LLC",NM,60405,CSPV,70,Solar Photovoltaic,SUN,PV
+2016,10,60094,"Clinton Battery Utility, LLC",IPP,Clinton Battery,OH,60297,1,10,Batteries,MWH,BA
+2016,10,59595,"Copper Mountain Solar 4, LLC",IPP,"Copper Mountain Solar 4, LLC",NV,59814,PV01,51.8,Solar Photovoltaic,SUN,PV
+2016,10,4329,"Copper Valley Elec Assn, Inc",Electric Utility,Allison Creek Hydro,AK,58982,GEN1,6.5,Conventional Hydroelectric,WAT,HY
+2016,10,58695,Coronal Development Services,IPP,"Hyline Solar Center, LLC",OR,60331,HSC1,9,Solar Photovoltaic,SUN,PV
+2016,10,60293,"DG Colorado Solar, LLC",IPP,Clear Spring Ranch PV Project,CO,60511,PV1,10,Solar Photovoltaic,SUN,PV
+2016,10,58468,Dominion Renewable Energy,IPP,"Eastern Shore Solar, LLC",VA,60127,PV1,80,Solar Photovoltaic,SUN,PV
+2016,10,58135,Ecos Energy LLC,IPP,Munro Valley Solar,CA,60412,MUN,4,Solar Photovoltaic,SUN,PV
+2016,10,7140,Georgia Power Co,Electric Utility,Fort Gordon Solar Facility,GA,59863,1,30,Solar Photovoltaic,SUN,PV
+2016,10,7140,Georgia Power Co,Electric Utility,Fort Stewart Solar Facility,GA,59865,1,30,Solar Photovoltaic,SUN,PV
+2016,10,57104,Golden Springs Development Company LLC,IPP,Freeway Springs,CA,60183,FSPRI,2,Solar Photovoltaic,SUN,PV
+2016,10,60279,"Greenfield Wind, LLC",IPP,Greenfield Wind - MT,MT,60486,1,25,Onshore Wind Turbine,WND,WT
+2016,10,60195,"Groton Fuel Cell 1, LLC",Electric CHP,Pfizer Groton Fuel Cell,CT,60392,MM-24,2.8,Other Natural Gas,NG,FC
+2016,10,60195,"Groton Fuel Cell 1, LLC",Electric CHP,Pfizer Groton Fuel Cell,CT,60392,MM-25,2.8,Other Natural Gas,NG,FC
+2016,10,59462,"Heelstone Energy Holdings, LLC",IPP,"Cornwall Solar Center, LLC",NC,59663,CSC1,5,Solar Photovoltaic,SUN,PV
+2016,10,9267,"Hoosier Energy R E C, Inc",Electric Utility,Ellettsville Solar RES,IN,59985,PV1,1.1,Solar Photovoltaic,SUN,PV
+2016,10,9267,"Hoosier Energy R E C, Inc",Electric Utility,Johnson Co. Solar RES,IN,59990,PV1,1.1,Solar Photovoltaic,SUN,PV
+2016,10,60129,"Horse Creek Wind, LLC",IPP,Horse Creek Wind Farm,TX,60339,HCWF,230,Onshore Wind Turbine,WND,WT
+2016,10,9216,Imperial Irrigation District,Electric Utility,El Centro,CA,389,BESS,28,Batteries,MWH,BA
+2016,10,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,A1,0.3,Landfill Gas,LFG,IC
+2016,10,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,A2,0.3,Landfill Gas,LFG,IC
+2016,10,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,A3,0.3,Landfill Gas,LFG,IC
+2016,10,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,A4,0.3,Landfill Gas,LFG,IC
+2016,10,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,A5,0.3,Landfill Gas,LFG,IC
+2016,10,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,A6,0.3,Landfill Gas,LFG,IC
+2016,10,49893,Invenergy Services LLC,IPP,Wake Wind Energy Center,TX,58766,1,257,Onshore Wind Turbine,WND,WT
+2016,10,58815,KDC Solar RTC LLC,IPP,Delilah Road Landfill,NJ,58951,DRLS,8.5,Solar Photovoltaic,SUN,PV
+2016,10,59600,"Mohave Sunrise Solar I, LLC",IPP,Mohave Electric at Fort Mohave,AZ,59819,PV2,15.2,Solar Photovoltaic,SUN,PV
+2016,10,56990,NJR Clean Energy Ventures Corporation,IPP,Cedar Branch,NJ,60266,CEDAR,5.9,Solar Photovoltaic,SUN,PV
+2016,10,57313,SolarCity Corporation,IPP,"BJ's Wholesale Club, Inc.-Burlington, NJ",NJ,60227,PV1,1.4,Solar Photovoltaic,SUN,PV
+2016,10,17650,Southern Power Co,IPP,Taylor County Solar,GA,59897,1,148,Solar Photovoltaic,SUN,PV
+2016,10,58661,"Sustainable Power Group, LLC",IPP,"Pioneer Wind Park, LLC",WY,60259,PWP1,80,Onshore Wind Turbine,WND,WT
+2016,10,59105,"WED Coventry One, LLC",IPP,WED Coventry 1,RI,59301,WEDC1,1.5,Onshore Wind Turbine,WND,WT
+2016,11,213,Alaska Electric Light&Power Co,Electric Utility,Industrial Plant,AK,59793,15,22.8,Petroleum Liquids,DFO,GT
+2016,11,57369,"Apple, Inc",IPP,Bonnybrooke PV,AZ,60413,AZPV1,50,Solar Photovoltaic,SUN,PV
+2016,11,56146,Black Hills/Colorado Elec.Util,Electric Utility,Peak View Wind Farm,CO,60143,WTG,60.8,Onshore Wind Turbine,WND,WT
+2016,11,60148,"Brady Wind, LLC",IPP,Brady Wind Energy Center,ND,60355,BWEC1,150,Onshore Wind Turbine,WND,WT
+2016,11,58695,Coronal Development Services,IPP,"Railroad Solar Center, LLC",OR,60333,RSC1,4.5,Solar Photovoltaic,SUN,PV
+2016,11,58695,Coronal Development Services,IPP,"Thunderegg Solar Center, LLC",OR,60334,TSC1,10,Solar Photovoltaic,SUN,PV
+2016,11,58695,Coronal Development Services,IPP,"Vale Air Solar Center, LLC",OR,60335,VASC1,10,Solar Photovoltaic,SUN,PV
+2016,11,60128,"Electra Wind, LLC",IPP,Electra Wind Farm,TX,60338,EWF,230,Onshore Wind Turbine,WND,WT
+2016,11,57104,Golden Springs Development Company LLC,IPP,Buidling L,CA,60154,BLDG1,1,Solar Photovoltaic,SUN,PV
+2016,11,57104,Golden Springs Development Company LLC,IPP,Building F,CA,60151,BLDGF,1.3,Solar Photovoltaic,SUN,PV
+2016,11,9324,Indiana Michigan Power Co,Electric Utility,Watervliet PV,MI,59853,WVPV1,4.6,Solar Photovoltaic,SUN,PV
+2016,11,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,B1,0.3,Landfill Gas,LFG,IC
+2016,11,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,B2,0.3,Landfill Gas,LFG,IC
+2016,11,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,B3,0.3,Landfill Gas,LFG,IC
+2016,11,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,B4,0.3,Landfill Gas,LFG,IC
+2016,11,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,B5,0.3,Landfill Gas,LFG,IC
+2016,11,59452,"Ingenco Renewable Development, LLC",IPP,Bristol Plant,VA,60222,B6,0.3,Landfill Gas,LFG,IC
+2016,11,60199,"Innovative Solar 65, LLC",IPP,Innovative Solar 65,NC,60398,FLS1,4.9,Solar Photovoltaic,SUN,PV
+2016,11,58849,Mariah del Este LLC,IPP,Mariah North,TX,59005,MAR1,230.4,Onshore Wind Turbine,WND,WT
+2016,11,59691,Meadowbrook Solar Farm LLC,IPP,Meadowbrook Solar Farm,NC,59936,NB008,4.9,Solar Photovoltaic,SUN,PV
+2016,11,12341,MidAmerican Energy Co,Electric Utility,Ida Grove Wind,IA,60342,IGWF4,27.6,Onshore Wind Turbine,WND,WT
+2016,11,58589,Orbit Energy Charlotte,IPP,Orbit Energy Charlotte,NC,58638,1,5.2,Other Waste Biomass,OBG,IC
+2016,11,60238,Pavant Solar II LLC,IPP,Pavant Solar II LLC,UT,60449,PSII,50,Solar Photovoltaic,SUN,PV
+2016,11,56895,Pio Pico Energy Center LLC,IPP,Pio Pico Energy Center,CA,57555,CTG1,97,Natural Gas Fired Combustion Turbine,NG,GT
+2016,11,56895,Pio Pico Energy Center LLC,IPP,Pio Pico Energy Center,CA,57555,CTG2,97,Natural Gas Fired Combustion Turbine,NG,GT
+2016,11,56895,Pio Pico Energy Center LLC,IPP,Pio Pico Energy Center,CA,57555,CTG3,97,Natural Gas Fired Combustion Turbine,NG,GT
+2016,11,17650,Southern Power Co,IPP,RE Garland,CA,60233,PV2,185,Solar Photovoltaic,SUN,PV
+2016,11,17650,Southern Power Co,IPP,RE Roserock,TX,59994,ROSEK,160,Solar Photovoltaic,SUN,PV
+2019,1,61776,,IPP,Oak Leaf Solar XXII LLC,CO,62252,53965,1.5,Solar Photovoltaic,SUN,PV
+2019,1,61777,,IPP,Oak Leaf Solar XXIII LLC,CO,62256,53966,1.5,Solar Photovoltaic,SUN,PV
+2019,1,61780,,IPP,Oak Leaf Solar XXIV LLC,CO,62253,53967,1.5,Solar Photovoltaic,SUN,PV
+2019,1,61779,,IPP,Oak Leaf Solar XXVI LLC,CO,62254,53970,1.5,Solar Photovoltaic,SUN,PV
+2019,1,60571,AEP Onsite Partners,IPP,Trout Creek Solar,CO,62260,44901,2.0,Solar Photovoltaic,SUN,PV
+2019,1,61482,"AES ES GILBERT, LLC",IPP,AES ES GILBERT,AZ,61861,SRP,10.0,Batteries,MWH,BA
+2019,1,60281,"Altus Power America Management, LLC",IPP,Corcoran CSG,MN,61971,201,1.0,Solar Photovoltaic,SUN,PV
+2019,1,60281,"Altus Power America Management, LLC",IPP,Corcoran CSG,MN,61971,202,1.0,Solar Photovoltaic,SUN,PV
+2019,1,60281,"Altus Power America Management, LLC",IPP,Corcoran CSG,MN,61971,203,1.0,Solar Photovoltaic,SUN,PV
+2019,1,60281,"Altus Power America Management, LLC",IPP,Corcoran CSG,MN,61971,204,1.0,Solar Photovoltaic,SUN,PV
+2019,1,60281,"Altus Power America Management, LLC",IPP,Corcoran CSG,MN,61971,205,1.0,Solar Photovoltaic,SUN,PV
+2019,1,61563,"Blue Summit II Wind, LLC",IPP,"Blue Summit II Wind, LLC",TX,61970,BSII,99.4,Onshore Wind Turbine,WND,WT
+2019,1,61260,"Capricornus Community Solar Garden, LLC",IPP,Capricornus Community Solar Garden,MN,61651,CAPR,1.0,Solar Photovoltaic,SUN,PV
+2019,1,18445,City of Tallahassee - (FL),Electric Utility,Arvah B Hopkins,FL,688,IC1,18.5,Natural Gas Internal Combustion Engine,NG,IC
+2019,1,18445,City of Tallahassee - (FL),Electric Utility,Arvah B Hopkins,FL,688,IC2,18.5,Natural Gas Internal Combustion Engine,NG,IC
+2019,1,18445,City of Tallahassee - (FL),Electric Utility,Arvah B Hopkins,FL,688,IC3,18.5,Natural Gas Internal Combustion Engine,NG,IC
+2019,1,18445,City of Tallahassee - (FL),Electric Utility,Arvah B Hopkins,FL,688,IC4,18.5,Natural Gas Internal Combustion Engine,NG,IC
+2019,1,18947,City of Tipton - (IA),Electric Utility,Tipton,IA,8106,7,2.0,Petroleum Liquids,DFO,IC
+2019,1,56769,Consolidated Edison Development Inc.,IPP,Blackwell Solar Park,CA,59524,FRBSP,20.0,Solar Photovoltaic,SUN,PV
+2019,1,61338,"Crux Community Solar Gardens, LLC",IPP,Crux Community Solar,MN,61712,CRUX,1.0,Solar Photovoltaic,SUN,PV
+2019,1,61413,"Enel Green Power Diamond Vista Wind Project, LLC",IPP,"Diamond Vista Wind Project, LLC",KS,61789,DV,299.3,Onshore Wind Turbine,WND,WT
+2019,1,6452,Florida Power & Light Co,Electric Utility,Interstate Solar Energy Center,FL,61768,1,74.5,Solar Photovoltaic,SUN,PV
+2019,1,6452,Florida Power & Light Co,Electric Utility,Miami Dade Solar Energy Center,FL,61766,1,74.5,Solar Photovoltaic,SUN,PV
+2019,1,6452,Florida Power & Light Co,Electric Utility,Pioneer Trail Solar Energy Center,FL,61767,1,74.5,Solar Photovoltaic,SUN,PV
+2019,1,6452,Florida Power & Light Co,Electric Utility,Sunshine Gateway Solar Energy Center,FL,61763,1,74.5,Solar Photovoltaic,SUN,PV
+2019,1,7019,Gay & Robinson Inc,Industrial,Gay Robinson,HI,50333,HYD3,6.5,Conventional Hydroelectric,WAT,HY
+2019,1,61365,"Hilltopper Wind Project, LLC",IPP,Hilltopper Wind Project,IL,61735,WT1,185.0,Onshore Wind Turbine,WND,WT
+2019,1,61907,"JBAB Solar I, LLC.",IPP,JBAB - Washington DC,DC,62374,PV1,5.9,Solar Photovoltaic,SUN,PV
+2019,1,61289,"Kaus Community Solar Garden, LLC",IPP,Kaus Community Solar,MN,61716,KAUS,1.0,Solar Photovoltaic,SUN,PV
+2019,1,54913,NSTAR Electric Company,Electric Utility,Greenfield Solar PV,MA,62063,LG400,2.0,Solar Photovoltaic,SUN,PV
+2019,1,54913,NSTAR Electric Company,Electric Utility,Hinsdale Solar PV,MA,62064,LG400,2.0,Solar Photovoltaic,SUN,PV
+2019,1,54913,NSTAR Electric Company,Electric Utility,Southwick Solar PV,MA,62082,REC34,5.0,Solar Photovoltaic,SUN,PV
+2019,1,54913,NSTAR Electric Company,Electric Utility,Springfield Solar PV,MA,62072,LG395,4.0,Solar Photovoltaic,SUN,PV
+2019,1,61552,"Pelzer Solar I, LLC",IPP,Pelzer Solar I,SC,61945,19,1.0,Solar Photovoltaic,SUN,PV
+2019,1,61494,Radian Generation,IPP,"NorWest Energy 4, LLC",OR,62268,NWE4,5.6,Solar Photovoltaic,SUN,PV
+2019,1,61414,"Rattlesnake Creek Wind Project, LLC",IPP,Rattlesnake Creek Wind Project,NE,59292,RCWP,318.1,Onshore Wind Turbine,WND,WT
+2019,1,61587,Sagittarius Community Solar Gardens LLC,IPP,Sagittarius Community Solar Gardens LLC,MN,61994,CRUX,0.7,Solar Photovoltaic,SUN,PV
+2019,1,17633,Southern Indiana Gas & Elec Co,Electric Utility,Volkman Road Solar Array,IN,61334,VRSA2,1.0,Batteries,MWH,BA
+2019,1,60531,Standard Solar,IPP,Fort Indiantown Gap,PA,62408,X0028,3.0,Solar Photovoltaic,SUN,PV
+2019,1,18454,Tampa Electric Co,Electric Utility,Bonnie Mine Solar,FL,61655,PV1,35.0,Solar Photovoltaic,SUN,PV
+2019,1,61625,USS Brockway Solar LLC,IPP,USS Brockway Solar CSG,MN,62049,USSBR,1.0,Solar Photovoltaic,SUN,PV
+2019,1,61627,USS JJ Solar LLC,IPP,USS JJ Solar CSG,MN,62047,USSJJ,1.0,Solar Photovoltaic,SUN,PV
+2019,1,61629,USS Norelius Solar LLC,IPP,USS Norelius Solar CSG,MN,62045,USSNO,1.0,Solar Photovoltaic,SUN,PV
+2019,1,61631,USS Solar Rapids LLC,IPP,USS Solar Rapids CSG,MN,62042,USSSR,1.0,Solar Photovoltaic,SUN,PV
+2019,1,61666,"WED GW Solar, LLC CSG",IPP,"WED GW Solar, LLC",RI,62118,GWSOL,3.0,Solar Photovoltaic,SUN,PV
+2019,1,61648,"WED Green Hill, LLC",IPP,"WED Green Hill, LLC",RI,62106,GHILL,3.0,Onshore Wind Turbine,WND,WT
+2019,1,61649,"WED Plainfield II, LLC",IPP,"WED Plainfield II, LLC",RI,62107,PLAI2,3.0,Onshore Wind Turbine,WND,WT
+2019,1,61650,"WED Plainfield III, LLC",IPP,"WED Plainfield III, LLC",RI,62108,PLAI3,3.0,Onshore Wind Turbine,WND,WT
+2019,1,61651,"WED Plainfield, LLC",IPP,"WED Plainfield, LLC",RI,62109,PLAI1,3.0,Onshore Wind Turbine,WND,WT
+2019,1,61652,"WED Shun I, LLC",IPP,"WED Shun I, LLC",RI,62110,SHUN1,3.0,Onshore Wind Turbine,WND,WT
+2019,1,61653,"WED Shun II, LLC",IPP,"WED Shun II, LLC",RI,62111,SHUN2,3.0,Onshore Wind Turbine,WND,WT
+2019,1,61654,"WED Shun III, LLC",IPP,"WED Shun III, LLC",RI,62112,SHUN3,3.0,Onshore Wind Turbine,WND,WT
+2019,1,61559,"Whitt Solar, LLC",IPP,Whitt Solar,SC,61952,20,2.0,Solar Photovoltaic,SUN,PV
+2019,1,61672,Willow Spring Solar LLC,IPP,"Willow Spring Solar, LLC",CA,60324,GEN01,100.0,Solar Photovoltaic,SUN,PV
+2019,2,61259,"Altair Community Solar Garden, LLC",IPP,Altair Community Solar Garden,MN,61645,ALTA,1.0,Solar Photovoltaic,SUN,PV
+2019,2,59474,BQ Energy LLC,IPP,Kings Park Solar I,NY,59880,KIPS1,2.0,Solar Photovoltaic,SUN,PV
+2019,2,59474,BQ Energy LLC,IPP,Kings Park Solar II,NY,59881,KIPS2,2.0,Solar Photovoltaic,SUN,PV
+2019,2,61546,"Bloom Solar, LLC",IPP,Bloom Solar,SC,61940,6,2.0,Solar Photovoltaic,SUN,PV
+2019,2,61230,"CD Arevon USA, Inc.",IPP,"CA Flats Solar 150, LLC",CA,60034,GEN01,150.0,Solar Photovoltaic,SUN,PV
+2019,2,3037,City of Carlyle - (IL),Electric Utility,Carlyle,IL,936,11,2.8,Petroleum Liquids,DFO,IC
+2019,2,61060,Cypress Creek Renewables,IPP,SCE&G Curie CSG,SC,61432,SCCU1,2.0,Solar Photovoltaic,SUN,PV
+2019,2,61610,"Delaware River Solar, LLC",IPP,Turner Rd Community Solar Project,NY,62160,300,2.0,Solar Photovoltaic,SUN,PV
+2019,2,57170,"EDF Renewable Asset Holdings, Inc.",IPP,"Stoneray Power Partners, LLC",MN,62269,STNRY,100.0,Onshore Wind Turbine,WND,WT
+2019,2,61688,ENGIE Generation North America LLC,IPP,Goose Lake MN DPC-GM,MN,62148,PV1,1.5,Solar Photovoltaic,SUN,PV
+2019,2,11479,Madison Gas & Electric Co,Electric Utility,Saratoga Wind Farm,IA,61070,SWE,66.0,Onshore Wind Turbine,WND,WT
+2019,2,61292,"NC State University, Energy Systems",Commercial,NCSU CCUP Cogeneration Plant,NC,61675,CTG1,5.6,Natural Gas Fired Combustion Turbine,NG,GT
+2019,2,61292,"NC State University, Energy Systems",Commercial,NCSU CCUP Cogeneration Plant,NC,61675,STG,1.0,Natural Gas Steam Turbine,NG,ST
+2019,2,61740,"NJ Solar 1, LLC",IPP,Hunterdon Health System Solar Project,NJ,62225,PV1,1.5,Solar Photovoltaic,SUN,PV
+2019,2,54913,NSTAR Electric Company,Electric Utility,Savoy Solar PV,MA,62065,LG400,2.0,Solar Photovoltaic,SUN,PV
+2019,2,54913,NSTAR Electric Company,Electric Utility,Southampton Solar PV,MA,62066,LG400,2.0,Solar Photovoltaic,SUN,PV
+2019,2,62070,Plainfield Solar LLC,IPP,Plainfield Community Solar LLC,MA,62579,2999,2.0,Solar Photovoltaic,SUN,PV
+2019,2,61507,Plumsted 537 LLC,IPP,Plumsted 537 LLC,NJ,61892,PLMST,19.8,Batteries,MWH,BA
+2019,2,60163,Soltage LLC,Industrial,Redwing Solar,SC,61946,11,2.0,Solar Photovoltaic,SUN,PV
+2019,2,60403,"TRS Fuel Cell, LLC",Electric CHP,TRS Fuel Cell,CT,60683,MMH1,3.7,Other Natural Gas,NG,FC
+2019,2,61562,"Torrecillas Wind Energy, LLC",IPP,"Torrecillas Wind Energy, LLC",TX,61969,TWE,300.0,Onshore Wind Turbine,WND,WT
+2019,3,61326,"Aquila Community Solar Gardens, LLC",IPP,Aquila Community Solar,MN,61704,AQUI,1.0,Solar Photovoltaic,SUN,PV
+2019,3,62101,"Badger Farm, LLC",IPP,Badger,NC,62603,BADGE,4.5,Solar Photovoltaic,SUN,PV
+2019,3,56608,Calpine Mid-Merit LLC,IPP,York Energy Center,PA,55524,CTG5,216.3,Natural Gas Fired Combined Cycle,NG,CT
+2019,3,56608,Calpine Mid-Merit LLC,IPP,York Energy Center,PA,55524,CTG6,216.3,Natural Gas Fired Combined Cycle,NG,CT
+2019,3,56608,Calpine Mid-Merit LLC,IPP,York Energy Center,PA,55524,STG2,395.1,Natural Gas Fired Combined Cycle,NG,CA
+2019,3,61329,"Canopus Community Solar Garden, LLC",IPP,Canopus Community Solar,MN,61707,CANO,1.0,Solar Photovoltaic,SUN,PV
+2019,3,61337,"Cassiopeia Community Solar Garden, LLC",IPP,Cassiopeia Community Solar,MN,61711,CASS,1.0,Solar Photovoltaic,SUN,PV
+2019,3,62099,"Changeup Solar, LLC",IPP,Changeup,NC,62601,CHANG,1.5,Solar Photovoltaic,SUN,PV
+2019,3,61419,"Constellation Solar MC, LLC",IPP,Gateway Solar,MD,61794,GTWYN,5.0,Solar Photovoltaic,SUN,PV
+2019,3,61187,"DG Minnesota CSG, LLC",IPP,Held Solar Project,MN,62267,HELD,5.0,Solar Photovoltaic,SUN,PV
+2019,3,5109,DTE Electric Company,Electric Utility,Pine River Wind Park,MI,61106,1,161.3,Onshore Wind Turbine,WND,WT
+2019,3,61610,"Delaware River Solar, LLC",IPP,Sacket Lake Rd #2 Community Solar Farm,NY,62159,20,1.7,Solar Photovoltaic,SUN,PV
+2019,3,56201,Engie North America,IPP,Live Oak Wind Project,TX,61782,WTGS,199.5,Onshore Wind Turbine,WND,WT
+2019,3,6035,Exelon Power,IPP,Exelon West Medway II LLC,MA,59882,4,97.4,Natural Gas Fired Combustion Turbine,NG,GT
+2019,3,6452,Florida Power & Light Co,Electric Utility,Okeechobee Clean Energy Center,FL,60345,1A,376.6,Natural Gas Fired Combined Cycle,NG,CT
+2019,3,6452,Florida Power & Light Co,Electric Utility,Okeechobee Clean Energy Center,FL,60345,1B,376.6,Natural Gas Fired Combined Cycle,NG,CT
+2019,3,6452,Florida Power & Light Co,Electric Utility,Okeechobee Clean Energy Center,FL,60345,1C,376.6,Natural Gas Fired Combined Cycle,NG,CT
+2019,3,6452,Florida Power & Light Co,Electric Utility,Okeechobee Clean Energy Center,FL,60345,1ST,593.3,Natural Gas Fired Combined Cycle,NG,CA
+2019,3,61518,Frontenac Holdco LLC,IPP,"Frontenac Holdco LLC, CSG",MN,61919,FRONT,5.0,Solar Photovoltaic,SUN,PV
+2019,3,60025,Greenbacker Renewable Energy Corporation,IPP,Oak Leaf Solar XXXII,CO,62251,53975,1.5,Solar Photovoltaic,SUN,PV
+2019,3,57389,IKEA Property Inc,Commercial,IKEA Norfolk Rooftop PV System,VA,62355,569PV,1.3,Solar Photovoltaic,SUN,PV
+2019,3,9417,Interstate Power and Light Co,Electric Utility,English Farms,IA,61565,1,169.9,Onshore Wind Turbine,WND,WT
+2019,3,9417,Interstate Power and Light Co,Electric Utility,Upland Prairie,IA,61564,1,299.3,Onshore Wind Turbine,WND,WT
+2019,3,61687,"KCE NY 1, LLC",IPP,KCE NY 1,NY,62147,KNY1,20.0,Batteries,MWH,BA
+2019,3,61679,MSC-GreyCloud01 LLC,IPP,MSC-GreyCloud01 Community Solar,MN,62143,52785,1.0,Solar Photovoltaic,SUN,PV
+2019,3,11806,Massachusetts Mun Wholes Electric Co,Electric Utility,Ashburnham Energy Storage Project,MA,62219,AMLPB,3.0,Batteries,MWH,BA
+2019,3,11806,Massachusetts Mun Wholes Electric Co,Electric Utility,Beebe Substation Battery Storage,MA,62585,WAKFD,3.0,Batteries,MWH,BA
+2019,3,60471,"Mt. Tom Solar, LLC",IPP,Mt. Tom Solar Project,MA,60906,BA1,3.1,Batteries,MWH,BA
+2019,3,61227,Nautilus Solar Solutions,IPP,Nautilus Lindstrom Solar CSG,MN,62030,LI,2.0,Solar Photovoltaic,SUN,PV
+2019,3,59300,PNM Resources,Electric Utility,Vista Solar Energy Center,NM,62467,VISTA,10.0,Solar Photovoltaic,SUN,PV
+2019,3,61585,Pisces Community Solar Garden LLC,IPP,Pisces Community Solar Garden,MN,61992,CRUX,0.7,Solar Photovoltaic,SUN,PV
+2019,3,62100,"Starr Farm, LLC",IPP,Starr,NC,62602,STARR,4.5,Solar Photovoltaic,SUN,PV
+2019,3,60117,SunShare,IPP,Becker Solar 2 CSG,MN,62084,BCKR2,1.0,Solar Photovoltaic,SUN,PV
+2019,3,60117,SunShare,IPP,Becker Solar 3 CSG,MN,62085,BCKR3,1.0,Solar Photovoltaic,SUN,PV
+2019,3,60117,SunShare,IPP,Becker Solar 4 CSG,MN,62086,BCKR4,1.0,Solar Photovoltaic,SUN,PV
+2019,3,60117,SunShare,IPP,Becker Solar 5 CSG,MN,62087,BCKR5,1.0,Solar Photovoltaic,SUN,PV
+2019,3,60117,SunShare,IPP,Becker Solar CSG,MN,62040,BCKR1,1.0,Solar Photovoltaic,SUN,PV
+2019,3,18454,Tampa Electric Co,Electric Utility,Peace Creek Solar,FL,61666,GEN,55.4,Solar Photovoltaic,SUN,PV
+2019,3,61532,Techren Solar I LLC,IPP,Techren,NV,61611,TECH1,100.0,Solar Photovoltaic,SUN,PV
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,A.J. Mihm Generating Station,MI,61391,M1,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,A.J. Mihm Generating Station,MI,61391,M2,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,A.J. Mihm Generating Station,MI,61391,M3,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,F.D. Kuester Generating Station,MI,61392,K1,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,F.D. Kuester Generating Station,MI,61392,K2,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,F.D. Kuester Generating Station,MI,61392,K3,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,F.D. Kuester Generating Station,MI,61392,K4,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,F.D. Kuester Generating Station,MI,61392,K5,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,F.D. Kuester Generating Station,MI,61392,K6,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61029,Upper Michigan Energy Resources Company,Electric Utility,F.D. Kuester Generating Station,MI,61392,K7,18.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,3,61558,"Watauga Solar, LLC",IPP,Watauga Solar,SC,61951,15,2.0,Solar Photovoltaic,SUN,PV
+2019,4,60571,AEP Onsite Partners,IPP,Bloomfield Municipal Utilities Solar,IA,62607,PV,1.6,Solar Photovoltaic,SUN,PV
+2019,4,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA01,1.0,Batteries,MWH,BA
+2019,4,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA02,1.0,Batteries,MWH,BA
+2019,4,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA03,1.0,Batteries,MWH,BA
+2019,4,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA06,1.2,Batteries,MWH,BA
+2019,4,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA1C,11.8,Batteries,MWH,BA
+2019,4,221,"Alaska Village Elec Coop, Inc",Electric Utility,Togiak,AK,6348,1,0.6,Petroleum Liquids,DFO,IC
+2019,4,221,"Alaska Village Elec Coop, Inc",Electric Utility,Togiak,AK,6348,2B,0.6,Petroleum Liquids,DFO,IC
+2019,4,221,"Alaska Village Elec Coop, Inc",Electric Utility,Togiak,AK,6348,3,1.1,Petroleum Liquids,DFO,IC
+2019,4,221,"Alaska Village Elec Coop, Inc",Electric Utility,Togiak,AK,6348,4C,0.5,Petroleum Liquids,DFO,IC
+2019,4,803,Arizona Public Service Co,Electric Utility,Ocotillo,AZ,116,GT3,104.7,Natural Gas Fired Combustion Turbine,NG,GT
+2019,4,803,Arizona Public Service Co,Electric Utility,Ocotillo,AZ,116,GT4,104.7,Natural Gas Fired Combustion Turbine,NG,GT
+2019,4,803,Arizona Public Service Co,Electric Utility,Ocotillo,AZ,116,GT6,104.7,Natural Gas Fired Combustion Turbine,NG,GT
+2019,4,803,Arizona Public Service Co,Electric Utility,Ocotillo,AZ,116,GT7,104.7,Natural Gas Fired Combustion Turbine,NG,GT
+2019,4,61705,Boring Solar LLC,IPP,Boring Solar LLC,OR,62169,BSPV2,2.2,Solar Photovoltaic,SUN,PV
+2019,4,58492,Chattanooga Metropolitan Airport,Commercial,Chattanooga Metropolitan Airport Solar,TN,58515,GEN3,0.4,Solar Photovoltaic,SUN,PV
+2019,4,61060,Cypress Creek Renewables,IPP,Cascade Solar (TX),TX,61875,GEN1,10.0,Solar Photovoltaic,SUN,PV
+2019,4,61070,"Foundation CA Fund IX Manager, LLC",IPP,Foundation Mann Packing,CA,61443,WTG1,1.8,Onshore Wind Turbine,WND,WT
+2019,4,57389,IKEA Property Inc,Commercial,IKEA Live Oak Rooftop PV System,TX,62152,570,1.7,Solar Photovoltaic,SUN,PV
+2019,4,61928,Jamison Solar Farm,Electric Utility,Jamison Solar Farm,SC,62396,1,1.1,Solar Photovoltaic,SUN,PV
+2019,4,61550,"Jessamine Solar, LLC",IPP,Jessamine Solar,SC,61944,10,1.9,Solar Photovoltaic,SUN,PV
+2019,4,61964,Kimberly Clark - Mobile Alabama,Industrial,Kimberly Clark Mobile - CHP Plant,AL,62449,GT100,21.8,Natural Gas Fired Combustion Turbine,NG,GT
+2019,4,61964,Kimberly Clark - Mobile Alabama,Industrial,Kimberly Clark Mobile - CHP Plant,AL,62449,GT200,21.8,Natural Gas Fired Combustion Turbine,NG,GT
+2019,4,61680,MSC-Scandia01 LLC,IPP,MSC-Scandia01 CSG,MN,62144,52741,1.0,Solar Photovoltaic,SUN,PV
+2019,4,13201,"Naknek Electric Assn, Inc",Electric Utility,Naknek,AK,6301,NA6,3.0,Petroleum Liquids,DFO,IC
+2019,4,13201,"Naknek Electric Assn, Inc",Electric Utility,Naknek,AK,6301,NA7,3.0,Petroleum Liquids,DFO,IC
+2019,4,61227,Nautilus Solar Solutions,IPP,Nautilus Saint Cloud Solar CSG,MN,62031,SC,5.0,Solar Photovoltaic,SUN,PV
+2019,4,61227,Nautilus Solar Solutions,IPP,Nautilus Winsted Solar CSG,MN,62032,WS,3.0,Solar Photovoltaic,SUN,PV
+2019,4,61612,"Panda Solar NC 1, LLC",IPP,"Panda Solar NC 1, LLC",NC,62089,20002,1.0,Solar Photovoltaic,SUN,PV
+2019,4,61655,"Panda Solar NC 2, LLC",IPP,"Panda Solar NC 2, LLC",NC,62120,20003,2.0,Solar Photovoltaic,SUN,PV
+2019,5,61325,"Aquarius Community Solar Gardens, LLC",IPP,Aquarius Community Solar,MN,61710,AQUA,1.0,Solar Photovoltaic,SUN,PV
+2019,5,803,Arizona Public Service Co,Electric Utility,Ocotillo,AZ,116,GT5,104.7,Natural Gas Fired Combustion Turbine,NG,GT
+2019,5,59474,BQ Energy LLC,IPP,Homer Street East,NY,62725,HSE,1.6,Solar Photovoltaic,SUN,PV
+2019,5,59474,BQ Energy LLC,IPP,Homer Street West,NY,62724,HSW,1.6,Solar Photovoltaic,SUN,PV
+2019,5,59474,BQ Energy LLC,IPP,Steel Sun 2: 2303-III-2 Hamburg Tpke,NY,62723,SS22,2.0,Solar Photovoltaic,SUN,PV
+2019,5,59474,BQ Energy LLC,IPP,Steel Sun 2: 2303-III-4 Hamburg Tpke,NY,62722,SS24,2.0,Solar Photovoltaic,SUN,PV
+2019,5,59474,BQ Energy LLC,IPP,Steel Sun 2: 2303-III-9 Hamburg Tpke,NY,62721,SS29,2.0,Solar Photovoltaic,SUN,PV
+2019,5,59239,Bannock County Landfill,Commercial,Bannock County LFG to Energy,ID,59529,GEN 2,1.4,Landfill Gas,LFG,IC
+2019,5,60672,Birdsboro Power LLC,IPP,Birdsboro Power,PA,61035,GEN1,476.0,Natural Gas Fired Combined Cycle,NG,CS
+2019,5,62003,"CMR Solar, LLC",IPP,CMR Solar LLC,NY,62486,CMRSL,2.0,Solar Photovoltaic,SUN,PV
+2019,5,61568,Chisago Holdco LLC,IPP,"Chisago Holdco LLC, CSG",MN,61968,CHIS,3.0,Solar Photovoltaic,SUN,PV
+2019,5,61419,"Constellation Solar MC, LLC",IPP,Gateway Solar,MD,61794,GTWYS,2.6,Solar Photovoltaic,SUN,PV
+2019,5,61567,DP-C2 Episode 1 LLC,IPP,Blackville Solar II,SC,61973,C2BV,20.0,Solar Photovoltaic,SUN,PV
+2019,5,61339,"Deneb Community Solar Garden, LLC",IPP,Deneb Community Solar,MN,61715,DENE,1.0,Solar Photovoltaic,SUN,PV
+2019,5,58970,"Ecoplexus, Inc",IPP,Folsom SP and CSP Sacramento,CA,61698,FOLSM,1.3,Solar Photovoltaic,SUN,PV
+2019,5,60496,Enerparc Inc.,IPP,Cloverdale Solar Center,CA,60813,ECA02,1.0,Solar Photovoltaic,SUN,PV
+2019,5,56201,Engie North America,IPP,"Seymour Hills Wind Project, LLC",TX,62227,WTGS,30.2,Onshore Wind Turbine,WND,WT
+2019,5,11241,Entergy Louisiana LLC,Electric Utility,St. Charles Power Station (LA),LA,60926,1A,250.0,Natural Gas Fired Combined Cycle,NG,CT
+2019,5,11241,Entergy Louisiana LLC,Electric Utility,St. Charles Power Station (LA),LA,60926,1B,250.0,Natural Gas Fired Combined Cycle,NG,CT
+2019,5,11241,Entergy Louisiana LLC,Electric Utility,St. Charles Power Station (LA),LA,60926,1C,500.0,Natural Gas Fired Combined Cycle,NG,CA
+2019,5,6035,Exelon Power,IPP,Exelon West Medway II LLC,MA,59882,5,97.4,Natural Gas Fired Combustion Turbine,NG,GT
+2019,5,62122,"Minuteman Eenergy Storage, LLC",IPP,Minuteman Energy Storage,MA,62644,MMES,5.0,Batteries,MWH,BA
+2019,5,13902,NorthWestern Energy,Electric Utility,Hauser,MT,2185,HAU7,3.4,Conventional Hydroelectric,WAT,HY
+2019,5,62010,Prairie Queen Wind Farm LLC,IPP,Prairie Queen Wind Farm,KS,62488,WT,199.3,Onshore Wind Turbine,WND,WT
+2019,5,61613,Sartell Holdco LLC,IPP,Sartell Holdco CSG,MN,62036,SARTE,5.0,Solar Photovoltaic,SUN,PV
+2019,5,61616,Solar Provider Group MN I LLC,IPP,Syncarpha Dodge 1 CSG,MN,62053,SPGD1,1.0,Solar Photovoltaic,SUN,PV
+2019,5,60531,Standard Solar,IPP,Mesa CSG 1 Murdock,CO,62719,X0038,1.5,Solar Photovoltaic,SUN,PV
+2019,5,60531,Standard Solar,IPP,Mesa CSG 2 Massicotte,CO,62718,X0037,1.5,Solar Photovoltaic,SUN,PV
+2019,5,61842,USS Webster Solar,IPP,USS Webster Solar CSG,MN,62336,USWEB,1.0,Solar Photovoltaic,SUN,PV
+2019,5,58105,University of Redlands,Commercial,Energy Center,CA,58168,TURB1,0.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,5,58105,University of Redlands,Commercial,Energy Center,CA,58168,TURB2,0.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,5,58105,University of Redlands,Commercial,Energy Center,CA,58168,TURB3,0.3,Natural Gas Internal Combustion Engine,NG,IC
+2019,5,57081,"WGL Energy Systems, Inc",IPP,Nationals,DC,62710,SO435,1.0,Solar Photovoltaic,SUN,PV
+2019,5,62669,"Westtown NY 1, LLC",IPP,Westtown CSG,NY,62764,WT,2.0,Solar Photovoltaic,SUN,PV
+2019,6,60146,Ameresco Federal Solutions,IPP,MCRD Parris Island PV,SC,61956,BAKUP,2.5,Petroleum Liquids,DFO,IC
+2019,6,60146,Ameresco Federal Solutions,IPP,MCRD Parris Island PV,SC,61956,BLKST,1.0,Petroleum Liquids,DFO,IC
+2019,6,60146,Ameresco Federal Solutions,IPP,MCRD Parris Island PV,SC,61956,CHPP,3.5,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,57449,Borrego Solar Systems Inc,Industrial,Clif Bar Bakery of Twin Falls,ID,62151,PV1,2.0,Solar Photovoltaic,SUN,PV
+2019,6,62634,"Chester Woods Point Solar, LLC",IPP,"Chester Woods Point Solar, LLC CSG",MD,62720,5540,2.0,Solar Photovoltaic,SUN,PV
+2019,6,58871,Citizens Enterprises Corporation,IPP,Two Mile Desert Project,NC,60510,PV1,16.2,Solar Photovoltaic,SUN,PV
+2019,6,16604,City of San Antonio - (TX),Electric Utility,Commerce ESS,TX,62609,BA1,10.0,Batteries,MWH,BA
+2019,6,61567,DP-C2 Episode 1 LLC,IPP,Diamond Solar II,SC,61974,C2BV,8.2,Solar Photovoltaic,SUN,PV
+2019,6,61567,DP-C2 Episode 1 LLC,IPP,Edison Solar II,SC,61975,C2BV,4.8,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Felton CSG PV1-5,MN,62210,FELT1,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Felton CSG PV1-5,MN,62210,FELT2,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Felton CSG PV1-5,MN,62210,FELT3,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Felton CSG PV1-5,MN,62210,FELT4,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Felton CSG PV1-5,MN,62210,FELT5,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Randolph CSG PV1-5,MN,62209,RAND1,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Randolph CSG PV1-5,MN,62209,RAND2,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Randolph CSG PV1-5,MN,62209,RAND3,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Randolph CSG PV1-5,MN,62209,RAND4,1.0,Solar Photovoltaic,SUN,PV
+2019,6,58970,"Ecoplexus, Inc",IPP,Randolph CSG PV1-5,MN,62209,RAND5,1.0,Solar Photovoltaic,SUN,PV
+2019,6,61872,Gavilan District College Solar Project,IPP,Gavilan District College Solar Project,CA,61993,GDCBA,0.5,Batteries,MWH,BA
+2019,6,7140,Georgia Power Co,Electric Utility,Waynesboro Community Solar,GA,62409,1,2.4,Solar Photovoltaic,SUN,PV
+2019,6,7136,Georgia-Pacific Consr Prods LP-Naheola,Industrial,Georgia-Pacific Consr Prods LP-Naheola,AL,10699,TG4,29.4,Wood/Wood Waste Biomass,WDS,ST
+2019,6,62719,Green Street Power Partners,IPP,GSPP Held LLC CSG,MN,62829,HELDM,3.0,Solar Photovoltaic,SUN,PV
+2019,6,60025,Greenbacker Renewable Energy Corporation,IPP,Oak Leaf Solar XXVIII LLC (CSG),CO,62255,53973,1.5,Solar Photovoltaic,SUN,PV
+2019,6,62131,HL Solar LLC,IPP,HL Solar,CA,62655,HLS,7.6,Solar Photovoltaic,SUN,PV
+2019,6,60040,Hale Wind Energy,IPP,Hale Community Wind Farm,TX,59247,HALE1,478.0,Onshore Wind Turbine,WND,WT
+2019,6,49893,Invenergy Services LLC,IPP,Santa Rita East,TX,62038,STRAE,302.4,Onshore Wind Turbine,WND,WT
+2019,6,59678,"KDC Solar PR1, LLC",IPP,"KDC Solar PR1, LLC",NJ,59910,SF,22.0,Solar Photovoltaic,SUN,PV
+2019,6,56990,NJR Clean Energy Ventures Corporation,IPP,IFF Union Beach Project,NJ,62306,IFFUB,5.5,Solar Photovoltaic,SUN,PV
+2019,6,56990,NJR Clean Energy Ventures Corporation,IPP,McCullough Road Solar Farm,NJ,62638,WASHG,7.6,Solar Photovoltaic,SUN,PV
+2019,6,61708,NRG Canal 3 Development LLC,IPP,Canal,MA,1599,3,330.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,61943,"North Rosamond Solar, LLC",IPP,North Rosamond Solar LLC,CA,59879,GEN01,160.0,Solar Photovoltaic,SUN,PV
+2019,6,60685,Novel Energy Solutions,IPP,Novel Solar One CSG LLC,MN,62665,HELD,3.0,Solar Photovoltaic,SUN,PV
+2019,6,61598,"Novel Solar Three, LLC",IPP,Gibbon Solar,MN,62010,PGRK1,3.3,Solar Photovoltaic,SUN,PV
+2019,6,59300,PNM Resources,Electric Utility,Rio De Oro Solar Energy Center,NM,62597,RDO,10.0,Solar Photovoltaic,SUN,PV
+2019,6,15452,PSEG Power Connecticut LLC,IPP,Bridgeport Station,CT,568,501,375.7,Natural Gas Fired Combined Cycle,NG,CT
+2019,6,15452,PSEG Power Connecticut LLC,IPP,Bridgeport Station,CT,568,502,200.6,Natural Gas Fired Combined Cycle,NG,CA
+2019,6,61663,"Panda Solar NC 10, LLC",IPP,"Panda Solar NC 10, LLC",NC,62128,20031,2.0,Solar Photovoltaic,SUN,PV
+2019,6,61664,"Panda Solar NC 11, LLC",IPP,"Panda Solar NC 11, LLC",NC,62129,20032,2.0,Solar Photovoltaic,SUN,PV
+2019,6,61656,"Panda Solar NC 3, LLC",IPP,"Panda Solar NC 3, LLC",NC,62121,20011,2.0,Solar Photovoltaic,SUN,PV
+2019,6,61657,"Panda Solar NC 4, LLC ",IPP,"Panda Solar NC 4, LLC",NC,62122,20009,2.0,Solar Photovoltaic,SUN,PV
+2019,6,61658,"Panda Solar NC 5, LLC",IPP,"Panda Solar NC 5, LLC",NC,62123,20007,1.0,Solar Photovoltaic,SUN,PV
+2019,6,61660,"Panda Solar NC 6, LLC",IPP,"Panda Solar NC 6, LLC",NC,62124,20028,1.0,Solar Photovoltaic,SUN,PV
+2019,6,61662,"Panda Solar NC 9, LLC",IPP,"Panda Solar NC 9, LLC",NC,62127,20022,2.0,Solar Photovoltaic,SUN,PV
+2019,6,61743,"Patriot Wind Farm, LLC",IPP,Patriot Wind Farm,TX,58614,PAT1,226.1,Onshore Wind Turbine,WND,WT
+2019,6,61485,"Rio Bravo Windpower, LLC",IPP,"Rio Bravo Windpower, LLC",TX,61865,1,237.6,Onshore Wind Turbine,WND,WT
+2019,6,61605,Riverhead Solar Farm LLC,IPP,Riverhead Solar Farm,NY,62017,RIV1,20.0,Solar Photovoltaic,SUN,PV
+2019,6,17650,Southern Power Co,IPP,Mankato Energy Center,MN,56104,CTG1,174.0,Natural Gas Fired Combined Cycle,NG,CT
+2019,6,60947,Tesla Inc.,IPP,Estrella Mountain PV,AZ,60230,PV1,1.8,Solar Photovoltaic,SUN,PV
+2019,6,61882,USS Eggo Solar CSG,IPP,USS Eggo Solar CSG,MN,62359,USEGG,1.0,Solar Photovoltaic,SUN,PV
+2019,6,61839,USS Kost Trail Solar LLC,IPP,USS Kost Trail Solar CSG,MN,62339,USSKT,1.0,Solar Photovoltaic,SUN,PV
+2019,6,19564,University of Notre Dame,Commercial,University of Notre Dame,IN,50366,GT1,5.6,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,19564,University of Notre Dame,Commercial,University of Notre Dame,IN,50366,GT2,5.6,Natural Gas Fired Combustion Turbine,NG,GT
+2019,6,61123,Upton County Solar 2 LLC,IPP,Castle Gap Solar,TX,60123,BAT1,9.9,Batteries,MWH,BA
+2019,6,60154,White Street Renewables LLC,IPP,White Street Renewables,NC,60364,WSLFG,1.6,Landfill Gas,LFG,IC
+2019,6,60875,Wolf Run Energy LLC,IPP,Wolf Run Energy,PA,61263,GEN1,4.4,Natural Gas Internal Combustion Engine,NG,IC
+2019,6,60875,Wolf Run Energy LLC,IPP,Wolf Run Energy,PA,61263,GEN2,4.4,Natural Gas Internal Combustion Engine,NG,IC
+2019,6,60875,Wolf Run Energy LLC,IPP,Wolf Run Energy,PA,61263,GEN3,4.4,Natural Gas Internal Combustion Engine,NG,IC
+2019,6,60875,Wolf Run Energy LLC,IPP,Wolf Run Energy,PA,61263,GEN4,4.4,Natural Gas Internal Combustion Engine,NG,IC
+2019,6,60875,Wolf Run Energy LLC,IPP,Wolf Run Energy,PA,61263,GEN5,4.4,Natural Gas Internal Combustion Engine,NG,IC
+2019,6,61902,Wright Kirby 1-5 CSG,IPP,Wright Kirby 1-5 CSG,MN,62365,WK1,1.0,Solar Photovoltaic,SUN,PV
+2019,6,61902,Wright Kirby 1-5 CSG,IPP,Wright Kirby 1-5 CSG,MN,62365,WK2,1.0,Solar Photovoltaic,SUN,PV
+2019,6,61902,Wright Kirby 1-5 CSG,IPP,Wright Kirby 1-5 CSG,MN,62365,WK3,1.0,Solar Photovoltaic,SUN,PV
+2019,6,61902,Wright Kirby 1-5 CSG,IPP,Wright Kirby 1-5 CSG,MN,62365,WK4,1.0,Solar Photovoltaic,SUN,PV
+2019,6,61902,Wright Kirby 1-5 CSG,IPP,Wright Kirby 1-5 CSG,MN,62365,WK5,1.0,Solar Photovoltaic,SUN,PV
+2019,7,60278,64KT 8me LLC,IPP,Springbok 3 Solar Farm,CA,60491,SB3SF,90.0,Solar Photovoltaic,SUN,PV
+2019,7,61012,AES Distributed Energy,IPP,Williamsburg,MA,62202,WIL01,4.0,Solar Photovoltaic,SUN,PV
+2019,7,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA04,1.5,Batteries,MWH,BA
+2019,7,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA05,1.3,Batteries,MWH,BA
+2019,7,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA07,1.0,Batteries,MWH,BA
+2019,7,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA08,1.9,Batteries,MWH,BA
+2019,7,61344,Advanced Microgrid Solutions,IPP,HEBT WLA 1,CA,61721,WLA10,1.3,Batteries,MWH,BA
+2019,7,61608,"Agilon Energy Holdings II, LLC",IPP,Victoria Port Power LLC,TX,61242,VP-1,50.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,7,61608,"Agilon Energy Holdings II, LLC",IPP,Victoria Port Power LLC,TX,61242,VP-2,50.0,Natural Gas Fired Combustion Turbine,NG,GT
+2019,7,62671,"Chester NY 1, LLC",IPP,Chester CSG,NY,62761,CH,2.0,Solar Photovoltaic,SUN,PV
+2019,7,61060,Cypress Creek Renewables,IPP,Palmetto Plains,SC,62679,1405,75.0,Solar Photovoltaic,SUN,PV
+2019,7,60370,"DG AMP Solar, LLC",IPP,DG AMP Solar Piqua Manier,OH,62792,AMPPM,12.6,Solar Photovoltaic,SUN,PV
+2019,7,61187,"DG Minnesota CSG, LLC",IPP,Haven Solar Project CSG,MN,62651,HAVEN,3.0,Solar Photovoltaic,SUN,PV
+2019,7,61567,DP-C2 Episode 1 LLC,IPP,Richardson Solar II,SC,61972,C2BV,3.6,Solar Photovoltaic,SUN,PV
+2019,7,56201,Engie North America,IPP,"Solomon Forks Wind Project, LLC",KS,61984,WTGS,275.6,Onshore Wind Turbine,WND,WT
+2019,7,60399,"GASNA 6P, LLC",IPP,San Joaquin Solar,CA,60678,SJ1B,1.5,Solar Photovoltaic,SUN,PV
+2019,7,7140,Georgia Power Co,Electric Utility,Guyton Community Solar,GA,62392,1,3.6,Solar Photovoltaic,SUN,PV
+2019,7,60428,"Green City Recovery, LLC",IPP,"Green City Recovery, LLC",KY,60703,2,1.0,Landfill Gas,LFG,IC
+2019,7,61952,Hanford Renewable Energy LLC,IPP,Verwey-Hanford Dairy Digester #2,CA,62418,4,1.0,Other Waste Biomass,OBG,IC
+2019,7,61952,Hanford Renewable Energy LLC,IPP,Verwey-Hanford Dairy Digester #3,CA,62419,4,1.0,Other Waste Biomass,OBG,IC
+2019,7,9234,Indiana Municipal Power Agency,Electric Utility,Tipton Solar Park,IN,62305,STIP,5.3,Solar Photovoltaic,SUN,PV
+2019,7,62649,KDC Solar ASGM LLC,IPP,KDC Solar ASGM,NJ,62739,ARDAH,3.8,Solar Photovoltaic,SUN,PV
+2019,7,62038,MSC-Chisago01 LLC,IPP,MSC-Chisago01 LLC CSG,MN,62536,52739,1.0,Solar Photovoltaic,SUN,PV
+2019,7,62039,MSC-Rice01 LLC,IPP,MSC-Rice01 LLC CSG,MN,62537,52738,1.0,Solar Photovoltaic,SUN,PV
+2019,7,61227,Nautilus Solar Solutions,IPP,"Synergen Panorama, LLC CSG",MD,62327,SP,6.6,Solar Photovoltaic,SUN,PV
+2019,7,61659,"Panda Solar NC 7 , LLC",IPP,"Panda Solar NC 7, LLC",NC,62125,20038,1.5,Solar Photovoltaic,SUN,PV
+2019,7,61677,Sol Systems,IPP,Warren Solar Farm LLC,NC,62223,10423,5.0,Solar Photovoltaic,SUN,PV
+2019,7,60947,Tesla Inc.,IPP,"Bd of Educ of Queen Anne's Cnty, Cnty HS",MD,62074,PV1,1.7,Solar Photovoltaic,SUN,PV
+2019,7,60947,Tesla Inc.,IPP,Blue Shld Of Cal- El Dorado Hlls Mtr B,CA,62077,PV1,2.1,Solar Photovoltaic,SUN,PV
+2019,7,60472,Tungsten Mountain,IPP,Tungsten Mountain,NV,60785,TMSOL,7.3,Solar Photovoltaic,SUN,PV
